@@ -5,38 +5,39 @@ public class BestStrategyByTime {
     private int[][] distTo;
     private Schedule[] pathTo;
     private IndexMinPQ<Integer> pq;
+    private int curTime;
 
 
-    public BestStrategyByTime(TransMap transMap, int s) {
+    public BestStrategyByTime(TransMap transMap, int s,int curTime) {
         distTo = new int[transMap.getNumOfCity()][2];
         pathTo = new Schedule[transMap.getNumOfCity()];
-
+        this.curTime = curTime;
         for (int v = 0;v < transMap.getNumOfCity();v++) {
             distTo[v][0]=Integer.MAX_VALUE/2;
             distTo[v][1] = 0;
         }
         distTo[s][0]=0;
-        distTo[s][1]=0;
+        distTo[s][1]=curTime;
         pq = new IndexMinPQ<Integer>(transMap.getNumOfCity());
         pq.insert(s,distTo[s][0]);
         while (!pq.isEmpty()) {
             int v = pq.delMin();
             for (Schedule p : transMap.getAdj(v)){
-//                distTo[v][1] = p.getArriveTime();
                 relax(p);
             }
         }
         assert true;
     }
-    public int calcuTimeTaken(int startTime,int arriveTime) {
+    public int calcuWaitTime(int startTime,int arriveTime) {
         if (startTime <= arriveTime ) return (arriveTime - startTime);
         else return (24 - arriveTime + startTime);
     }
 
     public void relax(Schedule path) {
         int v = path.getFromCity(),w = path.getToCity();
-        if (distTo[w][0] > distTo[v][0] + path.getTimeTaken() + calcuTimeTaken(distTo[v][1],path.getStartTime())) {
-            distTo[w][0] = distTo[v][0] + path.getTimeTaken() + calcuTimeTaken(distTo[v][1],path.getStartTime());
+        int waittime = calcuWaitTime(distTo[v][1],path.getStartTime());
+        if (distTo[w][0] > distTo[v][0] + path.getTimeTaken() + waittime) {
+            distTo[w][0] = distTo[v][0] + path.getTimeTaken() + waittime;
             distTo[w][1] = path.getArriveTime();
             pathTo[w] = path;
             if (pq.contains(w)) {
@@ -53,16 +54,16 @@ public class BestStrategyByTime {
     }
 
     public boolean hasPathTo (int v) {
-        return distTo[v][0] < Integer.MAX_VALUE;
+        return distTo[v][0] < Integer.MAX_VALUE/2;
     }
 
-//    public void setCurTime(int curTime) {
-//        this.curTime = curTime;
-//    }
-//
-//    public int getCurTime() {
-//        return curTime;
-//    }
+    public void setCurTime(int curTime) {
+        this.curTime = curTime;
+    }
+
+    public int getCurTime() {
+        return curTime;
+    }
 
     //返回S到V的最短路径
     public Iterable<Schedule> pathTo(int v) {

@@ -66,6 +66,155 @@ public class TransMap {
         return list;
     }
 
+    public Schedule[] loadTimetable(int n) {
+        Schedule[] timetable = {new Schedule(
+                0,
+                1,
+                5,
+                16,
+                10,
+                261.5,
+                "Z157"
+        ), new Schedule(
+                1,
+                2,
+                6,
+                14,
+                8,
+                313.5,
+                "D29"
+        ), new Schedule(
+                2,
+                3,
+                7,
+                14,
+                6,
+                541.5,
+                "G381"
+        ), new Schedule(
+                3,
+                4,
+                10,
+                18,
+                8,
+                306.5,
+                "D25"
+        ), new Schedule(
+                4,
+                5,
+                15,
+                23,
+                8,
+                158.0,
+                "Z179"
+        ), new Schedule(
+                5,
+                6,
+                7,
+                16,
+                8,
+                566.0,
+                "D1801"
+        ), new Schedule(
+                6,
+                7,
+                9,
+                12,
+                27,
+                381.0,
+                "K194"
+        ) , new Schedule(
+                7,
+                8,
+                7,
+                16,
+                8,
+                566.0,
+                "D1801"
+        ), new Schedule(
+                8,
+                9,
+                9,
+                12,
+                27,
+                381.0,
+                "K194"
+        ),new Schedule(
+                9,
+                8,
+                5,
+                16,
+                10,
+                261.5,
+                "Z157"
+        ), new Schedule(
+                8,
+                7,
+                6,
+                14,
+                8,
+                313.5,
+                "D29"
+        ), new Schedule(
+                7,
+                6,
+                7,
+                14,
+                6,
+                541.5,
+                "G381"
+        ), new Schedule(
+                6,
+                5,
+                10,
+                18,
+                8,
+                306.5,
+                "D25"
+        ), new Schedule(
+                5,
+                4,
+                15,
+                23,
+                8,
+                158.0,
+                "Z179"
+        ), new Schedule(
+                4,
+                3,
+                7,
+                16,
+                8,
+                566.0,
+                "D1801"
+        ), new Schedule(
+                3,
+                2,
+                9,
+                12,
+                27,
+                381.0,
+                "K194"
+        ) , new Schedule(
+                2,
+                1,
+                7,
+                16,
+                8,
+                566.0,
+                "D1801"
+        ), new Schedule(
+                1,
+                0,
+                9,
+                12,
+                27,
+                381.0,
+                "K194"
+        )  };
+        return timetable;
+    }
+
     public Schedule[] loadTimetable() {
         Schedule[] timetable = {new Schedule(
                 0,

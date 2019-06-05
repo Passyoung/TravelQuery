@@ -15,7 +15,7 @@ public class Main {
             transMap.addPath(timetable);
         }
 
-        BestStrategyByTime bestStrategy = new BestStrategyByTime(transMap,1);
+        BestStrategyByTime bestStrategy = new BestStrategyByTime(transMap,1,6);
         System.out.println("the least time from chengdu to nanjing is " + bestStrategy.getDistTo(8));
         for (Schedule path : bestStrategy.pathTo(8)) {
             System.out.print("fromCity:" + path.getFromCity()+" ");
