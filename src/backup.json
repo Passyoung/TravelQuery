@@ -1,0 +1,7753 @@
+[{
+  "fromCity": 0,
+  "toCity": 8,
+  "startTime": 5,
+  "arriveTime": 16,
+  "timeTaken": 10,
+  "price": 261.5,
+  "idNumber": "Z157"
+}, {
+  "fromCity": 0,
+  "toCity": 8,
+  "startTime": 6,
+  "arriveTime": 14,
+  "timeTaken": 8,
+  "price": 313.5,
+  "idNumber": "D29"
+}, {
+  "fromCity": 0,
+  "toCity": 8,
+  "startTime": 7,
+  "arriveTime": 14,
+  "timeTaken": 6,
+  "price": 541.5,
+  "idNumber": "G381"
+}, {
+  "fromCity": 0,
+  "toCity": 8,
+  "startTime": 10,
+  "arriveTime": 18,
+  "timeTaken": 8,
+  "price": 306.5,
+  "idNumber": "D25"
+}, {
+  "fromCity": 0,
+  "toCity": 8,
+  "startTime": 11,
+  "arriveTime": 2,
+  "timeTaken": 15,
+  "price": 268.5,
+  "idNumber": "K339"
+}, {
+  "fromCity": 0,
+  "toCity": 8,
+  "startTime": 12,
+  "arriveTime": 2,
+  "timeTaken": 14,
+  "price": 268.5,
+  "idNumber": "T297"
+}, {
+  "fromCity": 0,
+  "toCity": 8,
+  "startTime": 13,
+  "arriveTime": 21,
+  "timeTaken": 7,
+  "price": 306.5,
+  "idNumber": "D101"
+}, {
+  "fromCity": 0,
+  "toCity": 8,
+  "startTime": 14,
+  "arriveTime": 8,
+  "timeTaken": 18,
+  "price": 288.5,
+  "idNumber": "K349"
+}, {
+  "fromCity": 0,
+  "toCity": 8,
+  "startTime": 15,
+  "arriveTime": 22,
+  "timeTaken": 7,
+  "price": 306.5,
+  "idNumber": "D27"
+}, {
+  "fromCity": 0,
+  "toCity": 8,
+  "startTime": 16,
+  "arriveTime": 6,
+  "timeTaken": 13,
+  "price": 261.5,
+  "idNumber": "T17"
+}, {
+  "fromCity": 0,
+  "toCity": 8,
+  "startTime": 18,
+  "arriveTime": 6,
+  "timeTaken": 11,
+  "price": 261.5,
+  "idNumber": "T47"
+}, {
+  "fromCity": 0,
+  "toCity": 8,
+  "startTime": 20,
+  "arriveTime": 6,
+  "timeTaken": 10,
+  "price": 241.5,
+  "idNumber": "Z203"
+}, {
+  "fromCity": 0,
+  "toCity": 8,
+  "startTime": 21,
+  "arriveTime": 7,
+  "timeTaken": 9,
+  "price": 261.5,
+  "idNumber": "Z17"
+}, {
+  "fromCity": 0,
+  "toCity": 8,
+  "startTime": 21,
+  "arriveTime": 8,
+  "timeTaken": 10,
+  "price": 261.5,
+  "idNumber": "Z83"
+}, {
+  "fromCity": 0,
+  "toCity": 8,
+  "startTime": 22,
+  "arriveTime": 17,
+  "timeTaken": 19,
+  "price": 288.5,
+  "idNumber": "K1303"
+}, {
+  "fromCity": 0,
+  "toCity": 8,
+  "startTime": 23,
+  "arriveTime": 15,
+  "timeTaken": 16,
+  "price": 296.5,
+  "idNumber": "K39"
+}, {
+  "fromCity": 0,
+  "toCity": 9,
+  "startTime": 2,
+  "arriveTime": 12,
+  "timeTaken": 9,
+  "price": 158.0,
+  "idNumber": "K55"
+}, {
+  "fromCity": 0,
+  "toCity": 9,
+  "startTime": 3,
+  "arriveTime": 13,
+  "timeTaken": 9,
+  "price": 158.0,
+  "idNumber": "K711"
+}, {
+  "fromCity": 0,
+  "toCity": 9,
+  "startTime": 9,
+  "arriveTime": 19,
+  "timeTaken": 10,
+  "price": 158.0,
+  "idNumber": "K263"
+}, {
+  "fromCity": 0,
+  "toCity": 9,
+  "startTime": 10,
+  "arriveTime": 22,
+  "timeTaken": 12,
+  "price": 158.0,
+  "idNumber": "K617"
+}, {
+  "fromCity": 0,
+  "toCity": 9,
+  "startTime": 11,
+  "arriveTime": 20,
+  "timeTaken": 9,
+  "price": 158.0,
+  "idNumber": "Z283"
+}, {
+  "fromCity": 0,
+  "toCity": 9,
+  "startTime": 13,
+  "arriveTime": 23,
+  "timeTaken": 9,
+  "price": 158.0,
+  "idNumber": "K1177"
+}, {
+  "fromCity": 0,
+  "toCity": 9,
+  "startTime": 15,
+  "arriveTime": 23,
+  "timeTaken": 8,
+  "price": 158.0,
+  "idNumber": "Z179"
+}, {
+  "fromCity": 0,
+  "toCity": 9,
+  "startTime": 15,
+  "arriveTime": 5,
+  "timeTaken": 14,
+  "price": 147.0,
+  "idNumber": "1133"
+}, {
+  "fromCity": 0,
+  "toCity": 9,
+  "startTime": 20,
+  "arriveTime": 6,
+  "timeTaken": 10,
+  "price": 158.0,
+  "idNumber": "K573"
+}, {
+  "fromCity": 0,
+  "toCity": 9,
+  "startTime": 22,
+  "arriveTime": 7,
+  "timeTaken": 9,
+  "price": 158.0,
+  "idNumber": "K89"
+}, {
+  "fromCity": 0,
+  "toCity": 9,
+  "startTime": 22,
+  "arriveTime": 8,
+  "timeTaken": 9,
+  "price": 158.0,
+  "idNumber": "Z317"
+}, {
+  "fromCity": 0,
+  "toCity": 9,
+  "startTime": 23,
+  "arriveTime": 9,
+  "timeTaken": 9,
+  "price": 158.0,
+  "idNumber": "K885"
+}, {
+  "fromCity": 0,
+  "toCity": 7,
+  "startTime": 6,
+  "arriveTime": 10,
+  "timeTaken": 4,
+  "price": 515.5,
+  "idNumber": "G427"
+}, {
+  "fromCity": 0,
+  "toCity": 7,
+  "startTime": 6,
+  "arriveTime": 11,
+  "timeTaken": 4,
+  "price": 515.5,
+  "idNumber": "G89"
+}, {
+  "fromCity": 0,
+  "toCity": 7,
+  "startTime": 6,
+  "arriveTime": 12,
+  "timeTaken": 5,
+  "price": 515.5,
+  "idNumber": "G651"
+}, {
+  "fromCity": 0,
+  "toCity": 7,
+  "startTime": 7,
+  "arriveTime": 13,
+  "timeTaken": 6,
+  "price": 515.5,
+  "idNumber": "G653"
+}, {
+  "fromCity": 0,
+  "toCity": 7,
+  "startTime": 8,
+  "arriveTime": 14,
+  "timeTaken": 6,
+  "price": 515.5,
+  "idNumber": "G671"
+}, {
+  "fromCity": 0,
+  "toCity": 7,
+  "startTime": 9,
+  "arriveTime": 15,
+  "timeTaken": 5,
+  "price": 515.5,
+  "idNumber": "G571"
+}, {
+  "fromCity": 0,
+  "toCity": 7,
+  "startTime": 10,
+  "arriveTime": 16,
+  "timeTaken": 5,
+  "price": 515.5,
+  "idNumber": "G429"
+}, {
+  "fromCity": 0,
+  "toCity": 7,
+  "startTime": 11,
+  "arriveTime": 17,
+  "timeTaken": 5,
+  "price": 515.5,
+  "idNumber": "G667"
+}, {
+  "fromCity": 0,
+  "toCity": 7,
+  "startTime": 13,
+  "arriveTime": 19,
+  "timeTaken": 6,
+  "price": 515.5,
+  "idNumber": "G661"
+}, {
+  "fromCity": 0,
+  "toCity": 7,
+  "startTime": 14,
+  "arriveTime": 18,
+  "timeTaken": 4,
+  "price": 515.5,
+  "idNumber": "G87"
+}, {
+  "fromCity": 0,
+  "toCity": 7,
+  "startTime": 14,
+  "arriveTime": 5,
+  "timeTaken": 15,
+  "price": 268.5,
+  "idNumber": "T41"
+}, {
+  "fromCity": 0,
+  "toCity": 7,
+  "startTime": 14,
+  "arriveTime": 20,
+  "timeTaken": 5,
+  "price": 515.5,
+  "idNumber": "G673"
+}, {
+  "fromCity": 0,
+  "toCity": 7,
+  "startTime": 15,
+  "arriveTime": 19,
+  "timeTaken": 4,
+  "price": 515.5,
+  "idNumber": "G349"
+}, {
+  "fromCity": 0,
+  "toCity": 7,
+  "startTime": 15,
+  "arriveTime": 21,
+  "timeTaken": 5,
+  "price": 515.5,
+  "idNumber": "G663"
+}, {
+  "fromCity": 0,
+  "toCity": 7,
+  "startTime": 15,
+  "arriveTime": 5,
+  "timeTaken": 13,
+  "price": 254.5,
+  "idNumber": "T55"
+}, {
+  "fromCity": 0,
+  "toCity": 7,
+  "startTime": 15,
+  "arriveTime": 3,
+  "timeTaken": 11,
+  "price": 254.5,
+  "idNumber": "Z75"
+}, {
+  "fromCity": 0,
+  "toCity": 7,
+  "startTime": 16,
+  "arriveTime": 21,
+  "timeTaken": 5,
+  "price": 515.5,
+  "idNumber": "G665"
+}, {
+  "fromCity": 0,
+  "toCity": 7,
+  "startTime": 16,
+  "arriveTime": 3,
+  "timeTaken": 11,
+  "price": 254.5,
+  "idNumber": "Z151"
+}, {
+  "fromCity": 0,
+  "toCity": 7,
+  "startTime": 16,
+  "arriveTime": 6,
+  "timeTaken": 13,
+  "price": 268.5,
+  "idNumber": "T7"
+}, {
+  "fromCity": 0,
+  "toCity": 7,
+  "startTime": 18,
+  "arriveTime": 7,
+  "timeTaken": 12,
+  "price": 254.5,
+  "idNumber": "T231"
+}, {
+  "fromCity": 0,
+  "toCity": 7,
+  "startTime": 18,
+  "arriveTime": 23,
+  "timeTaken": 4,
+  "price": 515.5,
+  "idNumber": "G25"
+}, {
+  "fromCity": 0,
+  "toCity": 7,
+  "startTime": 20,
+  "arriveTime": 9,
+  "timeTaken": 13,
+  "price": 268.5,
+  "idNumber": "Z43"
+}, {
+  "fromCity": 0,
+  "toCity": 7,
+  "startTime": 20,
+  "arriveTime": 8,
+  "timeTaken": 11,
+  "price": 254.5,
+  "idNumber": "Z19"
+}, {
+  "fromCity": 0,
+  "toCity": 7,
+  "startTime": 22,
+  "arriveTime": 13,
+  "timeTaken": 15,
+  "price": 261.5,
+  "idNumber": "K1363"
+}, {
+  "fromCity": 0,
+  "toCity": 5,
+  "startTime": 7,
+  "arriveTime": 12,
+  "timeTaken": 5,
+  "price": 520.5,
+  "idNumber": "G529"
+}, {
+  "fromCity": 0,
+  "toCity": 5,
+  "startTime": 7,
+  "arriveTime": 13,
+  "timeTaken": 5,
+  "price": 520.5,
+  "idNumber": "G71"
+}, {
+  "fromCity": 0,
+  "toCity": 5,
+  "startTime": 8,
+  "arriveTime": 12,
+  "timeTaken": 4,
+  "price": 520.5,
+  "idNumber": "G403"
+}, {
+  "fromCity": 0,
+  "toCity": 5,
+  "startTime": 8,
+  "arriveTime": 13,
+  "timeTaken": 4,
+  "price": 520.5,
+  "idNumber": "G83"
+}, {
+  "fromCity": 0,
+  "toCity": 5,
+  "startTime": 9,
+  "arriveTime": 13,
+  "timeTaken": 4,
+  "price": 520.5,
+  "idNumber": "G81"
+}, {
+  "fromCity": 0,
+  "toCity": 5,
+  "startTime": 9,
+  "arriveTime": 14,
+  "timeTaken": 5,
+  "price": 520.5,
+  "idNumber": "G421"
+}, {
+  "fromCity": 0,
+  "toCity": 5,
+  "startTime": 10,
+  "arriveTime": 14,
+  "timeTaken": 4,
+  "price": 520.5,
+  "idNumber": "G79"
+}, {
+  "fromCity": 0,
+  "toCity": 5,
+  "startTime": 10,
+  "arriveTime": 15,
+  "timeTaken": 5,
+  "price": 520.5,
+  "idNumber": "G405"
+}, {
+  "fromCity": 0,
+  "toCity": 5,
+  "startTime": 11,
+  "arriveTime": 17,
+  "timeTaken": 5,
+  "price": 520.5,
+  "idNumber": "G401"
+}, {
+  "fromCity": 0,
+  "toCity": 5,
+  "startTime": 12,
+  "arriveTime": 18,
+  "timeTaken": 5,
+  "price": 520.5,
+  "idNumber": "G67"
+}, {
+  "fromCity": 0,
+  "toCity": 5,
+  "startTime": 13,
+  "arriveTime": 18,
+  "timeTaken": 5,
+  "price": 520.5,
+  "idNumber": "G69"
+}, {
+  "fromCity": 0,
+  "toCity": 5,
+  "startTime": 14,
+  "arriveTime": 19,
+  "timeTaken": 5,
+  "price": 520.5,
+  "idNumber": "G519"
+}, {
+  "fromCity": 0,
+  "toCity": 5,
+  "startTime": 14,
+  "arriveTime": 20,
+  "timeTaken": 5,
+  "price": 520.5,
+  "idNumber": "G587"
+}, {
+  "fromCity": 0,
+  "toCity": 5,
+  "startTime": 15,
+  "arriveTime": 20,
+  "timeTaken": 5,
+  "price": 520.5,
+  "idNumber": "G505"
+}, {
+  "fromCity": 0,
+  "toCity": 5,
+  "startTime": 16,
+  "arriveTime": 21,
+  "timeTaken": 5,
+  "price": 520.5,
+  "idNumber": "G573"
+}, {
+  "fromCity": 0,
+  "toCity": 5,
+  "startTime": 16,
+  "arriveTime": 22,
+  "timeTaken": 5,
+  "price": 520.5,
+  "idNumber": "G585"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 6,
+  "arriveTime": 11,
+  "timeTaken": 4,
+  "price": 443.5,
+  "idNumber": "G101"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 7,
+  "arriveTime": 10,
+  "timeTaken": 3,
+  "price": 443.5,
+  "idNumber": "G5"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 7,
+  "arriveTime": 11,
+  "timeTaken": 4,
+  "price": 443.5,
+  "idNumber": "G57"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 8,
+  "arriveTime": 11,
+  "timeTaken": 3,
+  "price": 443.5,
+  "idNumber": "G19"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 8,
+  "arriveTime": 12,
+  "timeTaken": 4,
+  "price": 443.5,
+  "idNumber": "G107"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 8,
+  "arriveTime": 13,
+  "timeTaken": 4,
+  "price": 443.5,
+  "idNumber": "G113"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 9,
+  "arriveTime": 12,
+  "timeTaken": 3,
+  "price": 443.5,
+  "idNumber": "G1"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 9,
+  "arriveTime": 13,
+  "timeTaken": 4,
+  "price": 443.5,
+  "idNumber": "G41"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 9,
+  "arriveTime": 14,
+  "timeTaken": 4,
+  "price": 443.5,
+  "idNumber": "G117"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 10,
+  "arriveTime": 13,
+  "timeTaken": 3,
+  "price": 443.5,
+  "idNumber": "G7"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 10,
+  "arriveTime": 14,
+  "timeTaken": 4,
+  "price": 443.5,
+  "idNumber": "G119"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 10,
+  "arriveTime": 1,
+  "timeTaken": 14,
+  "price": 254.5,
+  "idNumber": "K45"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 10,
+  "arriveTime": 15,
+  "timeTaken": 5,
+  "price": 443.5,
+  "idNumber": "G163"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 11,
+  "arriveTime": 14,
+  "timeTaken": 3,
+  "price": 443.5,
+  "idNumber": "G31"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 11,
+  "arriveTime": 15,
+  "timeTaken": 4,
+  "price": 443.5,
+  "idNumber": "G125"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 11,
+  "arriveTime": 3,
+  "timeTaken": 15,
+  "price": 236.5,
+  "idNumber": "1461"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 12,
+  "arriveTime": 15,
+  "timeTaken": 3,
+  "price": 443.5,
+  "idNumber": "G9"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 12,
+  "arriveTime": 16,
+  "timeTaken": 4,
+  "price": 443.5,
+  "idNumber": "G129"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 12,
+  "arriveTime": 17,
+  "timeTaken": 4,
+  "price": 443.5,
+  "idNumber": "G167"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 13,
+  "arriveTime": 17,
+  "timeTaken": 4,
+  "price": 443.5,
+  "idNumber": "G135"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 13,
+  "arriveTime": 18,
+  "timeTaken": 4,
+  "price": 443.5,
+  "idNumber": "G59"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 14,
+  "arriveTime": 17,
+  "timeTaken": 3,
+  "price": 443.5,
+  "idNumber": "G3"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 14,
+  "arriveTime": 18,
+  "timeTaken": 4,
+  "price": 443.5,
+  "idNumber": "G43"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 14,
+  "arriveTime": 19,
+  "timeTaken": 4,
+  "price": 443.5,
+  "idNumber": "G145"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 15,
+  "arriveTime": 18,
+  "timeTaken": 3,
+  "price": 443.5,
+  "idNumber": "G11"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 15,
+  "arriveTime": 19,
+  "timeTaken": 4,
+  "price": 443.5,
+  "idNumber": "G35"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 15,
+  "arriveTime": 20,
+  "timeTaken": 4,
+  "price": 443.5,
+  "idNumber": "G155"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 16,
+  "arriveTime": 20,
+  "timeTaken": 4,
+  "price": 443.5,
+  "idNumber": "G37"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 16,
+  "arriveTime": 21,
+  "timeTaken": 4,
+  "price": 443.5,
+  "idNumber": "G169"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 17,
+  "arriveTime": 20,
+  "timeTaken": 3,
+  "price": 443.5,
+  "idNumber": "G13"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 17,
+  "arriveTime": 21,
+  "timeTaken": 4,
+  "price": 443.5,
+  "idNumber": "G153"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 17,
+  "arriveTime": 22,
+  "timeTaken": 4,
+  "price": 443.5,
+  "idNumber": "G157"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 18,
+  "arriveTime": 21,
+  "timeTaken": 3,
+  "price": 443.5,
+  "idNumber": "G15"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 18,
+  "arriveTime": 23,
+  "timeTaken": 4,
+  "price": 443.5,
+  "idNumber": "G203"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 18,
+  "arriveTime": 5,
+  "timeTaken": 10,
+  "price": 254.5,
+  "idNumber": "Z281"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 19,
+  "arriveTime": 22,
+  "timeTaken": 3,
+  "price": 443.5,
+  "idNumber": "G17"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 19,
+  "arriveTime": 4,
+  "timeTaken": 9,
+  "price": 197.0,
+  "idNumber": "D717"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 19,
+  "arriveTime": 5,
+  "timeTaken": 9,
+  "price": 196.0,
+  "idNumber": "D709"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 20,
+  "arriveTime": 7,
+  "timeTaken": 11,
+  "price": 254.5,
+  "idNumber": "T109"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 21,
+  "arriveTime": 6,
+  "timeTaken": 9,
+  "price": 197.0,
+  "idNumber": "D711"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 22,
+  "arriveTime": 8,
+  "timeTaken": 9,
+  "price": 196.0,
+  "idNumber": "D715"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 23,
+  "arriveTime": 13,
+  "timeTaken": 14,
+  "price": 254.5,
+  "idNumber": "K101"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 23,
+  "arriveTime": 1,
+  "timeTaken": 2,
+  "price": 357,
+  "idNumber": "JD5661"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 8,
+  "arriveTime": 10,
+  "timeTaken": 2,
+  "price": 447,
+  "idNumber": "MU2862"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 10,
+  "arriveTime": 12,
+  "timeTaken": 2,
+  "price": 447,
+  "idNumber": "MU2802"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 11,
+  "arriveTime": 13,
+  "timeTaken": 2,
+  "price": 447,
+  "idNumber": "MU2812"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 18,
+  "arriveTime": 20,
+  "timeTaken": 2,
+  "price": 447,
+  "idNumber": "MU2832"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 20,
+  "arriveTime": 22,
+  "timeTaken": 2,
+  "price": 447,
+  "idNumber": "CA1819"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 15,
+  "arriveTime": 17,
+  "timeTaken": 2,
+  "price": 457,
+  "idNumber": "MU791"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 16,
+  "arriveTime": 18,
+  "timeTaken": 2,
+  "price": 457,
+  "idNumber": "MU2822"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 11,
+  "arriveTime": 12,
+  "timeTaken": 1,
+  "price": 507,
+  "idNumber": "CA1847"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 14,
+  "arriveTime": 16,
+  "timeTaken": 2,
+  "price": 507,
+  "idNumber": "CA1561"
+}, {
+  "fromCity": 0,
+  "toCity": 2,
+  "startTime": 17,
+  "arriveTime": 19,
+  "timeTaken": 2,
+  "price": 507,
+  "idNumber": "CA1503"
+}, {
+  "fromCity": 0,
+  "toCity": 8,
+  "startTime": 14,
+  "arriveTime": 19,
+  "timeTaken": 5,
+  "price": 449,
+  "idNumber": "KN5529"
+}, {
+  "fromCity": 0,
+  "toCity": 8,
+  "startTime": 7,
+  "arriveTime": 9,
+  "timeTaken": 2,
+  "price": 493,
+  "idNumber": "HU7129"
+}, {
+  "fromCity": 0,
+  "toCity": 8,
+  "startTime": 8,
+  "arriveTime": 10,
+  "timeTaken": 2,
+  "price": 520,
+  "idNumber": "MU2467"
+}, {
+  "fromCity": 0,
+  "toCity": 8,
+  "startTime": 6,
+  "arriveTime": 8,
+  "timeTaken": 2,
+  "price": 600,
+  "idNumber": "CA1621"
+}, {
+  "fromCity": 0,
+  "toCity": 8,
+  "startTime": 19,
+  "arriveTime": 20,
+  "timeTaken": 1,
+  "price": 785,
+  "idNumber": "CN7139"
+}, {
+  "fromCity": 0,
+  "toCity": 8,
+  "startTime": 19,
+  "arriveTime": 21,
+  "timeTaken": 2,
+  "price": 785,
+  "idNumber": "CN7149"
+}, {
+  "fromCity": 0,
+  "toCity": 8,
+  "startTime": 9,
+  "arriveTime": 11,
+  "timeTaken": 2,
+  "price": 910,
+  "idNumber": "CZ6204"
+}, {
+  "fromCity": 0,
+  "toCity": 8,
+  "startTime": 22,
+  "arriveTime": 0,
+  "timeTaken": 2,
+  "price": 910,
+  "idNumber": "CZ6202"
+}, {
+  "fromCity": 0,
+  "toCity": 8,
+  "startTime": 20,
+  "arriveTime": 22,
+  "timeTaken": 2,
+  "price": 970,
+  "idNumber": "CA1639"
+}, {
+  "fromCity": 0,
+  "toCity": 8,
+  "startTime": 14,
+  "arriveTime": 16,
+  "timeTaken": 2,
+  "price": 1000,
+  "idNumber": "MU2717"
+}, {
+  "fromCity": 0,
+  "toCity": 8,
+  "startTime": 10,
+  "arriveTime": 12,
+  "timeTaken": 2,
+  "price": 1190,
+  "idNumber": "CZ6279"
+}, {
+  "fromCity": 0,
+  "toCity": 8,
+  "startTime": 17,
+  "arriveTime": 20,
+  "timeTaken": 3,
+  "price": 1190,
+  "idNumber": "CZ6218"
+}, {
+  "fromCity": 0,
+  "toCity": 8,
+  "startTime": 11,
+  "arriveTime": 13,
+  "timeTaken": 2,
+  "price": 1330,
+  "idNumber": "CZ6220"
+}, {
+  "fromCity": 0,
+  "toCity": 8,
+  "startTime": 12,
+  "arriveTime": 14,
+  "timeTaken": 2,
+  "price": 1430,
+  "idNumber": "CA1623"
+}, {
+  "fromCity": 0,
+  "toCity": 8,
+  "startTime": 16,
+  "arriveTime": 19,
+  "timeTaken": 3,
+  "price": 1430,
+  "idNumber": "CA1611"
+}, {
+  "fromCity": 0,
+  "toCity": 9,
+  "startTime": 19,
+  "arriveTime": 20,
+  "timeTaken": 1,
+  "price": 661,
+  "idNumber": "KN2259"
+}, {
+  "fromCity": 0,
+  "toCity": 9,
+  "startTime": 21,
+  "arriveTime": 22,
+  "timeTaken": 1,
+  "price": 723,
+  "idNumber": "HU7175"
+}, {
+  "fromCity": 0,
+  "toCity": 9,
+  "startTime": 12,
+  "arriveTime": 14,
+  "timeTaken": 2,
+  "price": 859,
+  "idNumber": "KN2261"
+}, {
+  "fromCity": 0,
+  "toCity": 9,
+  "startTime": 6,
+  "arriveTime": 7,
+  "timeTaken": 1,
+  "price": 880,
+  "idNumber": "CA1111"
+}, {
+  "fromCity": 0,
+  "toCity": 9,
+  "startTime": 9,
+  "arriveTime": 10,
+  "timeTaken": 1,
+  "price": 880,
+  "idNumber": "CA1117"
+}, {
+  "fromCity": 0,
+  "toCity": 9,
+  "startTime": 16,
+  "arriveTime": 18,
+  "timeTaken": 2,
+  "price": 880,
+  "idNumber": "CA1105"
+}, {
+  "fromCity": 0,
+  "toCity": 9,
+  "startTime": 20,
+  "arriveTime": 21,
+  "timeTaken": 1,
+  "price": 880,
+  "idNumber": "CA1101"
+}, {
+  "fromCity": 0,
+  "toCity": 7,
+  "startTime": 7,
+  "arriveTime": 9,
+  "timeTaken": 2,
+  "price": 525,
+  "idNumber": "HU7137"
+}, {
+  "fromCity": 0,
+  "toCity": 7,
+  "startTime": 22,
+  "arriveTime": 0,
+  "timeTaken": 2,
+  "price": 525,
+  "idNumber": "HU7737"
+}, {
+  "fromCity": 0,
+  "toCity": 7,
+  "startTime": 6,
+  "arriveTime": 8,
+  "timeTaken": 2,
+  "price": 600,
+  "idNumber": "CZ3173"
+}, {
+  "fromCity": 0,
+  "toCity": 7,
+  "startTime": 7,
+  "arriveTime": 10,
+  "timeTaken": 3,
+  "price": 600,
+  "idNumber": "MU2102"
+}, {
+  "fromCity": 0,
+  "toCity": 7,
+  "startTime": 23,
+  "arriveTime": 1,
+  "timeTaken": 2,
+  "price": 600,
+  "idNumber": "MU5716"
+}, {
+  "fromCity": 0,
+  "toCity": 7,
+  "startTime": 8,
+  "arriveTime": 10,
+  "timeTaken": 2,
+  "price": 650,
+  "idNumber": "MU2104"
+}, {
+  "fromCity": 0,
+  "toCity": 7,
+  "startTime": 12,
+  "arriveTime": 14,
+  "timeTaken": 2,
+  "price": 650,
+  "idNumber": "MU2108"
+}, {
+  "fromCity": 0,
+  "toCity": 7,
+  "startTime": 8,
+  "arriveTime": 11,
+  "timeTaken": 3,
+  "price": 890,
+  "idNumber": "CA1289"
+}, {
+  "fromCity": 0,
+  "toCity": 7,
+  "startTime": 17,
+  "arriveTime": 20,
+  "timeTaken": 3,
+  "price": 1020,
+  "idNumber": "CZ6948"
+}, {
+  "fromCity": 0,
+  "toCity": 7,
+  "startTime": 10,
+  "arriveTime": 13,
+  "timeTaken": 3,
+  "price": 1240,
+  "idNumber": "MU2106"
+}, {
+  "fromCity": 0,
+  "toCity": 7,
+  "startTime": 10,
+  "arriveTime": 12,
+  "timeTaken": 2,
+  "price": 1340,
+  "idNumber": "CA1209"
+}, {
+  "fromCity": 0,
+  "toCity": 7,
+  "startTime": 11,
+  "arriveTime": 13,
+  "timeTaken": 2,
+  "price": 1435,
+  "idNumber": "HU7237"
+}, {
+  "fromCity": 0,
+  "toCity": 7,
+  "startTime": 20,
+  "arriveTime": 22,
+  "timeTaken": 2,
+  "price": 1530,
+  "idNumber": "CA1205"
+}, {
+  "fromCity": 0,
+  "toCity": 7,
+  "startTime": 14,
+  "arriveTime": 16,
+  "timeTaken": 2,
+  "price": 1620,
+  "idNumber": "MU2110"
+}, {
+  "fromCity": 0,
+  "toCity": 7,
+  "startTime": 18,
+  "arriveTime": 20,
+  "timeTaken": 2,
+  "price": 1700,
+  "idNumber": "MU2116"
+}, {
+  "fromCity": 0,
+  "toCity": 7,
+  "startTime": 21,
+  "arriveTime": 23,
+  "timeTaken": 2,
+  "price": 1700,
+  "idNumber": "MU2120"
+}, {
+  "fromCity": 0,
+  "toCity": 7,
+  "startTime": 19,
+  "arriveTime": 21,
+  "timeTaken": 2,
+  "price": 1810,
+  "idNumber": "CZ9130"
+}, {
+  "fromCity": 0,
+  "toCity": 7,
+  "startTime": 15,
+  "arriveTime": 17,
+  "timeTaken": 2,
+  "price": 2040,
+  "idNumber": "CA1225"
+}, {
+  "fromCity": 0,
+  "toCity": 7,
+  "startTime": 17,
+  "arriveTime": 19,
+  "timeTaken": 2,
+  "price": 2040,
+  "idNumber": "CA1235"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 5,
+  "arriveTime": 7,
+  "timeTaken": 2,
+  "price": 144.5,
+  "idNumber": "G7072"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 6,
+  "arriveTime": 7,
+  "timeTaken": 1,
+  "price": 134.5,
+  "idNumber": "G456"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 6,
+  "arriveTime": 8,
+  "timeTaken": 2,
+  "price": 115.0,
+  "idNumber": "D352"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 6,
+  "arriveTime": 9,
+  "timeTaken": 2,
+  "price": 75.0,
+  "idNumber": "D3002"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 7,
+  "arriveTime": 8,
+  "timeTaken": 1,
+  "price": 139.5,
+  "idNumber": "G6"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 7,
+  "arriveTime": 9,
+  "timeTaken": 2,
+  "price": 86.0,
+  "idNumber": "D3072"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 7,
+  "arriveTime": 10,
+  "timeTaken": 3,
+  "price": 195.0,
+  "idNumber": "G7395"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 8,
+  "arriveTime": 9,
+  "timeTaken": 1,
+  "price": 134.5,
+  "idNumber": "G8"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 8,
+  "arriveTime": 10,
+  "timeTaken": 2,
+  "price": 144.5,
+  "idNumber": "G7268"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 8,
+  "arriveTime": 11,
+  "timeTaken": 2,
+  "price": 115.0,
+  "idNumber": "D2216"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 8,
+  "arriveTime": 12,
+  "timeTaken": 3,
+  "price": 46.5,
+  "idNumber": "K290"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 9,
+  "arriveTime": 10,
+  "timeTaken": 1,
+  "price": 139.5,
+  "idNumber": "G7006"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 9,
+  "arriveTime": 11,
+  "timeTaken": 2,
+  "price": 144.5,
+  "idNumber": "G7492"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 9,
+  "arriveTime": 12,
+  "timeTaken": 3,
+  "price": 92.5,
+  "idNumber": "K516"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 9,
+  "arriveTime": 13,
+  "timeTaken": 3,
+  "price": 92.5,
+  "idNumber": "K360"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 10,
+  "arriveTime": 10,
+  "timeTaken": 0,
+  "price": 134.5,
+  "idNumber": "G10"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 10,
+  "arriveTime": 11,
+  "timeTaken": 1,
+  "price": 139.5,
+  "idNumber": "G7008"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 10,
+  "arriveTime": 12,
+  "timeTaken": 2,
+  "price": 139.5,
+  "idNumber": "G7042"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 10,
+  "arriveTime": 14,
+  "timeTaken": 3,
+  "price": 92.5,
+  "idNumber": "K1556"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 11,
+  "arriveTime": 12,
+  "timeTaken": 1,
+  "price": 139.5,
+  "idNumber": "G7010"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 11,
+  "arriveTime": 15,
+  "timeTaken": 4,
+  "price": 92.5,
+  "idNumber": "K2186"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 11,
+  "arriveTime": 13,
+  "timeTaken": 2,
+  "price": 144.5,
+  "idNumber": "G7572"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 11,
+  "arriveTime": 16,
+  "timeTaken": 4,
+  "price": 92.5,
+  "idNumber": "K464"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 12,
+  "arriveTime": 13,
+  "timeTaken": 1,
+  "price": 139.5,
+  "idNumber": "G12"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 12,
+  "arriveTime": 15,
+  "timeTaken": 3,
+  "price": 92.5,
+  "idNumber": "T204"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 12,
+  "arriveTime": 14,
+  "timeTaken": 1,
+  "price": 144.5,
+  "idNumber": "G7576"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 12,
+  "arriveTime": 16,
+  "timeTaken": 4,
+  "price": 86.5,
+  "idNumber": "1462"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 13,
+  "arriveTime": 14,
+  "timeTaken": 1,
+  "price": 134.5,
+  "idNumber": "G134"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 13,
+  "arriveTime": 15,
+  "timeTaken": 1,
+  "price": 144.5,
+  "idNumber": "G7164"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 13,
+  "arriveTime": 17,
+  "timeTaken": 4,
+  "price": 92.5,
+  "idNumber": "K172"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 13,
+  "arriveTime": 16,
+  "timeTaken": 2,
+  "price": 115.0,
+  "idNumber": "D3006"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 14,
+  "arriveTime": 15,
+  "timeTaken": 1,
+  "price": 139.5,
+  "idNumber": "G7016"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 14,
+  "arriveTime": 18,
+  "timeTaken": 4,
+  "price": 92.5,
+  "idNumber": "K738"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 14,
+  "arriveTime": 16,
+  "timeTaken": 2,
+  "price": 144.5,
+  "idNumber": "G7276"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 14,
+  "arriveTime": 17,
+  "timeTaken": 3,
+  "price": 92.5,
+  "idNumber": "T132"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 14,
+  "arriveTime": 19,
+  "timeTaken": 4,
+  "price": 92.5,
+  "idNumber": "K560"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 15,
+  "arriveTime": 16,
+  "timeTaken": 1,
+  "price": 134.5,
+  "idNumber": "G14"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 15,
+  "arriveTime": 17,
+  "timeTaken": 2,
+  "price": 144.5,
+  "idNumber": "G7140"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 15,
+  "arriveTime": 19,
+  "timeTaken": 4,
+  "price": 92.5,
+  "idNumber": "K1012"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 15,
+  "arriveTime": 18,
+  "timeTaken": 3,
+  "price": 92.5,
+  "idNumber": "T116"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 16,
+  "arriveTime": 17,
+  "timeTaken": 1,
+  "price": 139.5,
+  "idNumber": "G7020"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 16,
+  "arriveTime": 18,
+  "timeTaken": 2,
+  "price": 111.0,
+  "idNumber": "D3142"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 16,
+  "arriveTime": 19,
+  "timeTaken": 3,
+  "price": 92.5,
+  "idNumber": "K372"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 16,
+  "arriveTime": 20,
+  "timeTaken": 4,
+  "price": 92.5,
+  "idNumber": "K152"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 17,
+  "arriveTime": 17,
+  "timeTaken": 0,
+  "price": 134.5,
+  "idNumber": "G16"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 17,
+  "arriveTime": 18,
+  "timeTaken": 1,
+  "price": 139.5,
+  "idNumber": "G7022"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 17,
+  "arriveTime": 19,
+  "timeTaken": 2,
+  "price": 144.5,
+  "idNumber": "G7144"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 17,
+  "arriveTime": 20,
+  "timeTaken": 2,
+  "price": 111.0,
+  "idNumber": "D3136"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 17,
+  "arriveTime": 21,
+  "timeTaken": 4,
+  "price": 92.5,
+  "idNumber": "T110"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 18,
+  "arriveTime": 19,
+  "timeTaken": 1,
+  "price": 139.5,
+  "idNumber": "G7024"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 18,
+  "arriveTime": 20,
+  "timeTaken": 2,
+  "price": 92.5,
+  "idNumber": "Z92"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 18,
+  "arriveTime": 23,
+  "timeTaken": 4,
+  "price": 92.5,
+  "idNumber": "K188"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 18,
+  "arriveTime": 21,
+  "timeTaken": 3,
+  "price": 195.0,
+  "idNumber": "G7391"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 18,
+  "arriveTime": 22,
+  "timeTaken": 3,
+  "price": 92.5,
+  "idNumber": "Z172"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 19,
+  "arriveTime": 20,
+  "timeTaken": 1,
+  "price": 134.5,
+  "idNumber": "G22"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 19,
+  "arriveTime": 21,
+  "timeTaken": 1,
+  "price": 144.5,
+  "idNumber": "G7122"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 19,
+  "arriveTime": 22,
+  "timeTaken": 3,
+  "price": 92.5,
+  "idNumber": "Z40"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 19,
+  "arriveTime": 23,
+  "timeTaken": 3,
+  "price": 92.5,
+  "idNumber": "K8356"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 20,
+  "arriveTime": 21,
+  "timeTaken": 1,
+  "price": 139.5,
+  "idNumber": "G7028"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 20,
+  "arriveTime": 22,
+  "timeTaken": 2,
+  "price": 139.5,
+  "idNumber": "G7064"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 20,
+  "arriveTime": 23,
+  "timeTaken": 3,
+  "price": 92.5,
+  "idNumber": "K8376"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 20,
+  "arriveTime": 0,
+  "timeTaken": 4,
+  "price": 86.5,
+  "idNumber": "1228"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 21,
+  "arriveTime": 22,
+  "timeTaken": 1,
+  "price": 144.5,
+  "idNumber": "G7030"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 21,
+  "arriveTime": 23,
+  "timeTaken": 2,
+  "price": 51.0,
+  "idNumber": "D706"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 21,
+  "arriveTime": 1,
+  "timeTaken": 3,
+  "price": 92.5,
+  "idNumber": "K8482"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 22,
+  "arriveTime": 1,
+  "timeTaken": 2,
+  "price": 88.5,
+  "idNumber": "D306"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 23,
+  "arriveTime": 2,
+  "timeTaken": 3,
+  "price": 92.5,
+  "idNumber": "K8386"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 23,
+  "arriveTime": 3,
+  "timeTaken": 3,
+  "price": 92.5,
+  "idNumber": "K8362"
+}, {
+  "fromCity": 1,
+  "toCity": 3,
+  "startTime": 6,
+  "arriveTime": 6,
+  "timeTaken": 0,
+  "price": 73.0,
+  "idNumber": "G7541"
+}, {
+  "fromCity": 1,
+  "toCity": 3,
+  "startTime": 6,
+  "arriveTime": 7,
+  "timeTaken": 0,
+  "price": 73.0,
+  "idNumber": "G7331"
+}, {
+  "fromCity": 1,
+  "toCity": 3,
+  "startTime": 6,
+  "arriveTime": 8,
+  "timeTaken": 1,
+  "price": 73.0,
+  "idNumber": "G1651"
+}, {
+  "fromCity": 1,
+  "toCity": 3,
+  "startTime": 7,
+  "arriveTime": 8,
+  "timeTaken": 1,
+  "price": 56.0,
+  "idNumber": "D379"
+}, {
+  "fromCity": 1,
+  "toCity": 3,
+  "startTime": 7,
+  "arriveTime": 9,
+  "timeTaken": 1,
+  "price": 56.0,
+  "idNumber": "D2287"
+}, {
+  "fromCity": 1,
+  "toCity": 3,
+  "startTime": 8,
+  "arriveTime": 8,
+  "timeTaken": 0,
+  "price": 73.0,
+  "idNumber": "G85"
+}, {
+  "fromCity": 1,
+  "toCity": 3,
+  "startTime": 8,
+  "arriveTime": 9,
+  "timeTaken": 1,
+  "price": 88.0,
+  "idNumber": "G7317"
+}, {
+  "fromCity": 1,
+  "toCity": 3,
+  "startTime": 8,
+  "arriveTime": 10,
+  "timeTaken": 1,
+  "price": 56.0,
+  "idNumber": "D3125"
+}, {
+  "fromCity": 1,
+  "toCity": 3,
+  "startTime": 9,
+  "arriveTime": 9,
+  "timeTaken": 0,
+  "price": 73.0,
+  "idNumber": "G7505"
+}, {
+  "fromCity": 1,
+  "toCity": 3,
+  "startTime": 9,
+  "arriveTime": 10,
+  "timeTaken": 1,
+  "price": 56.0,
+  "idNumber": "D2285"
+}, {
+  "fromCity": 1,
+  "toCity": 3,
+  "startTime": 9,
+  "arriveTime": 11,
+  "timeTaken": 1,
+  "price": 88.0,
+  "idNumber": "G7319"
+}, {
+  "fromCity": 1,
+  "toCity": 3,
+  "startTime": 10,
+  "arriveTime": 10,
+  "timeTaken": 0,
+  "price": 73.0,
+  "idNumber": "G1501"
+}, {
+  "fromCity": 1,
+  "toCity": 3,
+  "startTime": 10,
+  "arriveTime": 11,
+  "timeTaken": 0,
+  "price": 73.0,
+  "idNumber": "G7507"
+}, {
+  "fromCity": 1,
+  "toCity": 3,
+  "startTime": 10,
+  "arriveTime": 12,
+  "timeTaken": 1,
+  "price": 56.0,
+  "idNumber": "D3135"
+}, {
+  "fromCity": 1,
+  "toCity": 3,
+  "startTime": 11,
+  "arriveTime": 12,
+  "timeTaken": 1,
+  "price": 73.0,
+  "idNumber": "G7461"
+}, {
+  "fromCity": 1,
+  "toCity": 3,
+  "startTime": 12,
+  "arriveTime": 13,
+  "timeTaken": 1,
+  "price": 73.0,
+  "idNumber": "G7591"
+}, {
+  "fromCity": 1,
+  "toCity": 3,
+  "startTime": 12,
+  "arriveTime": 12,
+  "timeTaken": 0,
+  "price": 73.0,
+  "idNumber": "G7511"
+}, {
+  "fromCity": 1,
+  "toCity": 3,
+  "startTime": 12,
+  "arriveTime": 14,
+  "timeTaken": 1,
+  "price": 73.0,
+  "idNumber": "G7193"
+}, {
+  "fromCity": 1,
+  "toCity": 3,
+  "startTime": 13,
+  "arriveTime": 14,
+  "timeTaken": 1,
+  "price": 73.0,
+  "idNumber": "G7595"
+}, {
+  "fromCity": 1,
+  "toCity": 3,
+  "startTime": 14,
+  "arriveTime": 15,
+  "timeTaken": 1,
+  "price": 73.0,
+  "idNumber": "G7515"
+}, {
+  "fromCity": 1,
+  "toCity": 3,
+  "startTime": 14,
+  "arriveTime": 14,
+  "timeTaken": 0,
+  "price": 73.0,
+  "idNumber": "G99"
+}, {
+  "fromCity": 1,
+  "toCity": 3,
+  "startTime": 14,
+  "arriveTime": 16,
+  "timeTaken": 1,
+  "price": 56.0,
+  "idNumber": "D381"
+}, {
+  "fromCity": 1,
+  "toCity": 3,
+  "startTime": 15,
+  "arriveTime": 15,
+  "timeTaken": 0,
+  "price": 73.0,
+  "idNumber": "G1357"
+}, {
+  "fromCity": 1,
+  "toCity": 3,
+  "startTime": 15,
+  "arriveTime": 16,
+  "timeTaken": 1,
+  "price": 56.0,
+  "idNumber": "D3101"
+}, {
+  "fromCity": 1,
+  "toCity": 3,
+  "startTime": 16,
+  "arriveTime": 17,
+  "timeTaken": 0,
+  "price": 73.0,
+  "idNumber": "G7365"
+}, {
+  "fromCity": 1,
+  "toCity": 3,
+  "startTime": 17,
+  "arriveTime": 18,
+  "timeTaken": 1,
+  "price": 73.0,
+  "idNumber": "G7563"
+}, {
+  "fromCity": 1,
+  "toCity": 3,
+  "startTime": 17,
+  "arriveTime": 19,
+  "timeTaken": 1,
+  "price": 92.5,
+  "idNumber": "G7359"
+}, {
+  "fromCity": 1,
+  "toCity": 3,
+  "startTime": 18,
+  "arriveTime": 19,
+  "timeTaken": 1,
+  "price": 73.0,
+  "idNumber": "G7307"
+}, {
+  "fromCity": 1,
+  "toCity": 3,
+  "startTime": 19,
+  "arriveTime": 19,
+  "timeTaken": 0,
+  "price": 73.0,
+  "idNumber": "G7535"
+}, {
+  "fromCity": 1,
+  "toCity": 3,
+  "startTime": 19,
+  "arriveTime": 20,
+  "timeTaken": 0,
+  "price": 56.0,
+  "idNumber": "D3323"
+}, {
+  "fromCity": 1,
+  "toCity": 3,
+  "startTime": 20,
+  "arriveTime": 21,
+  "timeTaken": 1,
+  "price": 73.0,
+  "idNumber": "G7527"
+}, {
+  "fromCity": 1,
+  "toCity": 3,
+  "startTime": 21,
+  "arriveTime": 22,
+  "timeTaken": 1,
+  "price": 73.0,
+  "idNumber": "G7555"
+}, {
+  "fromCity": 1,
+  "toCity": 2,
+  "startTime": 22,
+  "arriveTime": 23,
+  "timeTaken": 1,
+  "price": 180,
+  "idNumber": "MU2882"
+}, {
+  "fromCity": 2,
+  "toCity": 0,
+  "startTime": 0,
+  "arriveTime": 9,
+  "timeTaken": 9,
+  "price": 196.0,
+  "idNumber": "D710"
+}, {
+  "fromCity": 2,
+  "toCity": 0,
+  "startTime": 1,
+  "arriveTime": 15,
+  "timeTaken": 14,
+  "price": 254.5,
+  "idNumber": "K102"
+}, {
+  "fromCity": 2,
+  "toCity": 0,
+  "startTime": 7,
+  "arriveTime": 12,
+  "timeTaken": 4,
+  "price": 443.5,
+  "idNumber": "G204"
+}, {
+  "fromCity": 2,
+  "toCity": 0,
+  "startTime": 8,
+  "arriveTime": 12,
+  "timeTaken": 4,
+  "price": 443.5,
+  "idNumber": "G104"
+}, {
+  "fromCity": 2,
+  "toCity": 0,
+  "startTime": 8,
+  "arriveTime": 11,
+  "timeTaken": 3,
+  "price": 443.5,
+  "idNumber": "G6"
+}, {
+  "fromCity": 2,
+  "toCity": 0,
+  "startTime": 8,
+  "arriveTime": 13,
+  "timeTaken": 4,
+  "price": 443.5,
+  "idNumber": "G34"
+}, {
+  "fromCity": 2,
+  "toCity": 0,
+  "startTime": 9,
+  "arriveTime": 12,
+  "timeTaken": 3,
+  "price": 443.5,
+  "idNumber": "G8"
+}, {
+  "fromCity": 2,
+  "toCity": 0,
+  "startTime": 9,
+  "arriveTime": 13,
+  "timeTaken": 4,
+  "price": 443.5,
+  "idNumber": "G108"
+}, {
+  "fromCity": 2,
+  "toCity": 0,
+  "startTime": 9,
+  "arriveTime": 14,
+  "timeTaken": 4,
+  "price": 443.5,
+  "idNumber": "G112"
+}, {
+  "fromCity": 2,
+  "toCity": 0,
+  "startTime": 10,
+  "arriveTime": 13,
+  "timeTaken": 3,
+  "price": 443.5,
+  "idNumber": "G2"
+}, {
+  "fromCity": 2,
+  "toCity": 0,
+  "startTime": 10,
+  "arriveTime": 14,
+  "timeTaken": 4,
+  "price": 443.5,
+  "idNumber": "G58"
+}, {
+  "fromCity": 2,
+  "toCity": 0,
+  "startTime": 11,
+  "arriveTime": 14,
+  "timeTaken": 3,
+  "price": 443.5,
+  "idNumber": "G10"
+}, {
+  "fromCity": 2,
+  "toCity": 0,
+  "startTime": 11,
+  "arriveTime": 15,
+  "timeTaken": 4,
+  "price": 443.5,
+  "idNumber": "G116"
+}, {
+  "fromCity": 2,
+  "toCity": 0,
+  "startTime": 11,
+  "arriveTime": 16,
+  "timeTaken": 4,
+  "price": 443.5,
+  "idNumber": "G42"
+}, {
+  "fromCity": 2,
+  "toCity": 0,
+  "startTime": 12,
+  "arriveTime": 16,
+  "timeTaken": 4,
+  "price": 443.5,
+  "idNumber": "G124"
+}, {
+  "fromCity": 2,
+  "toCity": 0,
+  "startTime": 12,
+  "arriveTime": 17,
+  "timeTaken": 4,
+  "price": 443.5,
+  "idNumber": "G126"
+}, {
+  "fromCity": 2,
+  "toCity": 0,
+  "startTime": 13,
+  "arriveTime": 18,
+  "timeTaken": 5,
+  "price": 443.5,
+  "idNumber": "G38"
+}, {
+  "fromCity": 2,
+  "toCity": 0,
+  "startTime": 13,
+  "arriveTime": 16,
+  "timeTaken": 3,
+  "price": 443.5,
+  "idNumber": "G12"
+}, {
+  "fromCity": 2,
+  "toCity": 0,
+  "startTime": 14,
+  "arriveTime": 17,
+  "timeTaken": 3,
+  "price": 443.5,
+  "idNumber": "G32"
+}, {
+  "fromCity": 2,
+  "toCity": 0,
+  "startTime": 14,
+  "arriveTime": 18,
+  "timeTaken": 4,
+  "price": 443.5,
+  "idNumber": "G134"
+}, {
+  "fromCity": 2,
+  "toCity": 0,
+  "startTime": 14,
+  "arriveTime": 19,
+  "timeTaken": 4,
+  "price": 443.5,
+  "idNumber": "G138"
+}, {
+  "fromCity": 2,
+  "toCity": 0,
+  "startTime": 15,
+  "arriveTime": 18,
+  "timeTaken": 3,
+  "price": 443.5,
+  "idNumber": "G4"
+}, {
+  "fromCity": 2,
+  "toCity": 0,
+  "startTime": 15,
+  "arriveTime": 19,
+  "timeTaken": 4,
+  "price": 443.5,
+  "idNumber": "G140"
+}, {
+  "fromCity": 2,
+  "toCity": 0,
+  "startTime": 15,
+  "arriveTime": 20,
+  "timeTaken": 4,
+  "price": 443.5,
+  "idNumber": "G142"
+}, {
+  "fromCity": 2,
+  "toCity": 0,
+  "startTime": 16,
+  "arriveTime": 19,
+  "timeTaken": 3,
+  "price": 443.5,
+  "idNumber": "G14"
+}, {
+  "fromCity": 2,
+  "toCity": 0,
+  "startTime": 16,
+  "arriveTime": 20,
+  "timeTaken": 4,
+  "price": 443.5,
+  "idNumber": "G146"
+}, {
+  "fromCity": 2,
+  "toCity": 0,
+  "startTime": 16,
+  "arriveTime": 10,
+  "timeTaken": 18,
+  "price": 236.5,
+  "idNumber": "1462"
+}, {
+  "fromCity": 2,
+  "toCity": 0,
+  "startTime": 16,
+  "arriveTime": 21,
+  "timeTaken": 4,
+  "price": 443.5,
+  "idNumber": "G148"
+}, {
+  "fromCity": 2,
+  "toCity": 0,
+  "startTime": 17,
+  "arriveTime": 21,
+  "timeTaken": 4,
+  "price": 443.5,
+  "idNumber": "G60"
+}, {
+  "fromCity": 2,
+  "toCity": 0,
+  "startTime": 17,
+  "arriveTime": 22,
+  "timeTaken": 4,
+  "price": 443.5,
+  "idNumber": "G150"
+}, {
+  "fromCity": 2,
+  "toCity": 0,
+  "startTime": 18,
+  "arriveTime": 21,
+  "timeTaken": 3,
+  "price": 443.5,
+  "idNumber": "G16"
+}, {
+  "fromCity": 2,
+  "toCity": 0,
+  "startTime": 18,
+  "arriveTime": 22,
+  "timeTaken": 4,
+  "price": 443.5,
+  "idNumber": "G154"
+}, {
+  "fromCity": 2,
+  "toCity": 0,
+  "startTime": 18,
+  "arriveTime": 23,
+  "timeTaken": 4,
+  "price": 443.5,
+  "idNumber": "G44"
+}, {
+  "fromCity": 2,
+  "toCity": 0,
+  "startTime": 19,
+  "arriveTime": 22,
+  "timeTaken": 3,
+  "price": 443.5,
+  "idNumber": "G18"
+}, {
+  "fromCity": 2,
+  "toCity": 0,
+  "startTime": 20,
+  "arriveTime": 23,
+  "timeTaken": 3,
+  "price": 443.5,
+  "idNumber": "G22"
+}, {
+  "fromCity": 2,
+  "toCity": 0,
+  "startTime": 21,
+  "arriveTime": 6,
+  "timeTaken": 9,
+  "price": 196.0,
+  "idNumber": "D716"
+}, {
+  "fromCity": 2,
+  "toCity": 0,
+  "startTime": 21,
+  "arriveTime": 7,
+  "timeTaken": 9,
+  "price": 197.0,
+  "idNumber": "D718"
+}, {
+  "fromCity": 2,
+  "toCity": 0,
+  "startTime": 22,
+  "arriveTime": 10,
+  "timeTaken": 12,
+  "price": 254.5,
+  "idNumber": "T110"
+}, {
+  "fromCity": 2,
+  "toCity": 0,
+  "startTime": 23,
+  "arriveTime": 9,
+  "timeTaken": 9,
+  "price": 197.0,
+  "idNumber": "D706"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 1,
+  "arriveTime": 5,
+  "timeTaken": 3,
+  "price": 92.5,
+  "idNumber": "K375"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 2,
+  "arriveTime": 5,
+  "timeTaken": 3,
+  "price": 92.5,
+  "idNumber": "K359"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 2,
+  "arriveTime": 6,
+  "timeTaken": 3,
+  "price": 92.5,
+  "idNumber": "K1555"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 3,
+  "arriveTime": 7,
+  "timeTaken": 3,
+  "price": 86.5,
+  "idNumber": "1461"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 4,
+  "arriveTime": 8,
+  "timeTaken": 4,
+  "price": 92.5,
+  "idNumber": "K1101"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 4,
+  "arriveTime": 7,
+  "timeTaken": 2,
+  "price": 51.0,
+  "idNumber": "D701"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 5,
+  "arriveTime": 7,
+  "timeTaken": 2,
+  "price": 51.0,
+  "idNumber": "D709"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 6,
+  "arriveTime": 8,
+  "timeTaken": 2,
+  "price": 139.5,
+  "idNumber": "G7101"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 6,
+  "arriveTime": 11,
+  "timeTaken": 4,
+  "price": 92.5,
+  "idNumber": "K171"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 6,
+  "arriveTime": 9,
+  "timeTaken": 2,
+  "price": 144.5,
+  "idNumber": "G7581"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 7,
+  "arriveTime": 8,
+  "timeTaken": 1,
+  "price": 134.5,
+  "idNumber": "G1509"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 7,
+  "arriveTime": 9,
+  "timeTaken": 2,
+  "price": 144.5,
+  "idNumber": "G7043"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 7,
+  "arriveTime": 11,
+  "timeTaken": 3,
+  "price": 195.0,
+  "idNumber": "G7393"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 7,
+  "arriveTime": 12,
+  "timeTaken": 4,
+  "price": 92.5,
+  "idNumber": "K737"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 7,
+  "arriveTime": 10,
+  "timeTaken": 2,
+  "price": 111.0,
+  "idNumber": "D2281"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 8,
+  "arriveTime": 9,
+  "timeTaken": 1,
+  "price": 139.5,
+  "idNumber": "G7003"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 8,
+  "arriveTime": 10,
+  "timeTaken": 2,
+  "price": 111.0,
+  "idNumber": "D3135"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 9,
+  "arriveTime": 10,
+  "timeTaken": 1,
+  "price": 139.5,
+  "idNumber": "G7005"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 9,
+  "arriveTime": 11,
+  "timeTaken": 2,
+  "price": 92.5,
+  "idNumber": "Z163"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 9,
+  "arriveTime": 12,
+  "timeTaken": 3,
+  "price": 92.5,
+  "idNumber": "T131"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 10,
+  "arriveTime": 12,
+  "timeTaken": 2,
+  "price": 92.5,
+  "idNumber": "Z251"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 10,
+  "arriveTime": 11,
+  "timeTaken": 1,
+  "price": 139.5,
+  "idNumber": "G7007"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 10,
+  "arriveTime": 14,
+  "timeTaken": 4,
+  "price": 92.5,
+  "idNumber": "K1155"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 10,
+  "arriveTime": 13,
+  "timeTaken": 3,
+  "price": 92.5,
+  "idNumber": "T115"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 11,
+  "arriveTime": 12,
+  "timeTaken": 1,
+  "price": 139.5,
+  "idNumber": "G7009"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 11,
+  "arriveTime": 13,
+  "timeTaken": 2,
+  "price": 111.0,
+  "idNumber": "D3141"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 11,
+  "arriveTime": 14,
+  "timeTaken": 2,
+  "price": 115.0,
+  "idNumber": "D3009"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 12,
+  "arriveTime": 13,
+  "timeTaken": 1,
+  "price": 139.5,
+  "idNumber": "G7011"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 12,
+  "arriveTime": 14,
+  "timeTaken": 2,
+  "price": 139.5,
+  "idNumber": "G7051"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 12,
+  "arriveTime": 16,
+  "timeTaken": 3,
+  "price": 92.5,
+  "idNumber": "K1331"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 12,
+  "arriveTime": 15,
+  "timeTaken": 2,
+  "price": 115.0,
+  "idNumber": "D3005"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 13,
+  "arriveTime": 14,
+  "timeTaken": 1,
+  "price": 139.5,
+  "idNumber": "G7013"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 13,
+  "arriveTime": 15,
+  "timeTaken": 2,
+  "price": 139.5,
+  "idNumber": "G7053"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 13,
+  "arriveTime": 16,
+  "timeTaken": 2,
+  "price": 115.0,
+  "idNumber": "D3041"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 13,
+  "arriveTime": 17,
+  "timeTaken": 3,
+  "price": 92.5,
+  "idNumber": "K515"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 13,
+  "arriveTime": 18,
+  "timeTaken": 4,
+  "price": 92.5,
+  "idNumber": "K2185"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 14,
+  "arriveTime": 15,
+  "timeTaken": 1,
+  "price": 139.5,
+  "idNumber": "G7015"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 14,
+  "arriveTime": 16,
+  "timeTaken": 2,
+  "price": 144.5,
+  "idNumber": "G7231"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 14,
+  "arriveTime": 17,
+  "timeTaken": 3,
+  "price": 92.5,
+  "idNumber": "T203"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 14,
+  "arriveTime": 18,
+  "timeTaken": 3,
+  "price": 86.5,
+  "idNumber": "1227"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 15,
+  "arriveTime": 16,
+  "timeTaken": 1,
+  "price": 139.5,
+  "idNumber": "G7017"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 15,
+  "arriveTime": 17,
+  "timeTaken": 2,
+  "price": 144.5,
+  "idNumber": "G7235"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 16,
+  "arriveTime": 17,
+  "timeTaken": 1,
+  "price": 139.5,
+  "idNumber": "G7019"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 16,
+  "arriveTime": 18,
+  "timeTaken": 2,
+  "price": 144.5,
+  "idNumber": "G7371"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 16,
+  "arriveTime": 19,
+  "timeTaken": 2,
+  "price": 144.5,
+  "idNumber": "G7239"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 17,
+  "arriveTime": 18,
+  "timeTaken": 1,
+  "price": 134.5,
+  "idNumber": "G1227"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 17,
+  "arriveTime": 19,
+  "timeTaken": 2,
+  "price": 115.0,
+  "idNumber": "D2211"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 17,
+  "arriveTime": 20,
+  "timeTaken": 2,
+  "price": 144.5,
+  "idNumber": "G7285"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 18,
+  "arriveTime": 19,
+  "timeTaken": 1,
+  "price": 139.5,
+  "idNumber": "G7023"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 18,
+  "arriveTime": 20,
+  "timeTaken": 2,
+  "price": 144.5,
+  "idNumber": "G7163"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 18,
+  "arriveTime": 21,
+  "timeTaken": 3,
+  "price": 195.0,
+  "idNumber": "G7397"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 18,
+  "arriveTime": 22,
+  "timeTaken": 3,
+  "price": 92.5,
+  "idNumber": "K8385"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 19,
+  "arriveTime": 20,
+  "timeTaken": 1,
+  "price": 139.5,
+  "idNumber": "G7025"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 19,
+  "arriveTime": 21,
+  "timeTaken": 2,
+  "price": 144.5,
+  "idNumber": "G7087"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 19,
+  "arriveTime": 22,
+  "timeTaken": 3,
+  "price": 46.5,
+  "idNumber": "K8365"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 20,
+  "arriveTime": 21,
+  "timeTaken": 1,
+  "price": 139.5,
+  "idNumber": "G7027"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 20,
+  "arriveTime": 22,
+  "timeTaken": 2,
+  "price": 86.0,
+  "idNumber": "D635"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 21,
+  "arriveTime": 22,
+  "timeTaken": 1,
+  "price": 134.5,
+  "idNumber": "G1231"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 21,
+  "arriveTime": 23,
+  "timeTaken": 1,
+  "price": 134.5,
+  "idNumber": "G151"
+}, {
+  "fromCity": 2,
+  "toCity": 1,
+  "startTime": 22,
+  "arriveTime": 23,
+  "timeTaken": 1,
+  "price": 134.5,
+  "idNumber": "G157"
+}, {
+  "fromCity": 2,
+  "toCity": 5,
+  "startTime": 7,
+  "arriveTime": 10,
+  "timeTaken": 2,
+  "price": 200.5,
+  "idNumber": "G1113"
+}, {
+  "fromCity": 2,
+  "toCity": 5,
+  "startTime": 8,
+  "arriveTime": 11,
+  "timeTaken": 2,
+  "price": 200.5,
+  "idNumber": "G1773"
+}, {
+  "fromCity": 2,
+  "toCity": 5,
+  "startTime": 9,
+  "arriveTime": 11,
+  "timeTaken": 2,
+  "price": 200.5,
+  "idNumber": "G1539"
+}, {
+  "fromCity": 2,
+  "toCity": 5,
+  "startTime": 9,
+  "arriveTime": 12,
+  "timeTaken": 2,
+  "price": 200.5,
+  "idNumber": "G579"
+}, {
+  "fromCity": 2,
+  "toCity": 5,
+  "startTime": 10,
+  "arriveTime": 13,
+  "timeTaken": 3,
+  "price": 200.5,
+  "idNumber": "G577"
+}, {
+  "fromCity": 2,
+  "toCity": 5,
+  "startTime": 15,
+  "arriveTime": 17,
+  "timeTaken": 2,
+  "price": 200.5,
+  "idNumber": "G1721"
+}, {
+  "fromCity": 2,
+  "toCity": 5,
+  "startTime": 15,
+  "arriveTime": 18,
+  "timeTaken": 2,
+  "price": 200.5,
+  "idNumber": "G1743"
+}, {
+  "fromCity": 2,
+  "toCity": 5,
+  "startTime": 16,
+  "arriveTime": 19,
+  "timeTaken": 3,
+  "price": 200.5,
+  "idNumber": "G1777"
+}, {
+  "fromCity": 2,
+  "toCity": 5,
+  "startTime": 17,
+  "arriveTime": 20,
+  "timeTaken": 3,
+  "price": 200.5,
+  "idNumber": "G1737"
+}, {
+  "fromCity": 2,
+  "toCity": 5,
+  "startTime": 18,
+  "arriveTime": 20,
+  "timeTaken": 2,
+  "price": 200.5,
+  "idNumber": "G1729"
+}, {
+  "fromCity": 2,
+  "toCity": 5,
+  "startTime": 18,
+  "arriveTime": 22,
+  "timeTaken": 3,
+  "price": 191.5,
+  "idNumber": "G583"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 0,
+  "arriveTime": 5,
+  "timeTaken": 5,
+  "price": 123.0,
+  "idNumber": "Z175"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 0,
+  "arriveTime": 8,
+  "timeTaken": 7,
+  "price": 123.0,
+  "idNumber": "K8371"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 1,
+  "arriveTime": 6,
+  "timeTaken": 5,
+  "price": 123.0,
+  "idNumber": "K75"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 1,
+  "arriveTime": 8,
+  "timeTaken": 6,
+  "price": 123.0,
+  "idNumber": "T135"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 1,
+  "arriveTime": 9,
+  "timeTaken": 7,
+  "price": 123.0,
+  "idNumber": "K47"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 2,
+  "arriveTime": 9,
+  "timeTaken": 7,
+  "price": 123.0,
+  "idNumber": "K1181"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 4,
+  "arriveTime": 8,
+  "timeTaken": 3,
+  "price": 80.0,
+  "idNumber": "D717"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 6,
+  "arriveTime": 10,
+  "timeTaken": 3,
+  "price": 128.0,
+  "idNumber": "D3125"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 6,
+  "arriveTime": 8,
+  "timeTaken": 1,
+  "price": 117.5,
+  "idNumber": "G7625"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 7,
+  "arriveTime": 9,
+  "timeTaken": 2,
+  "price": 208.5,
+  "idNumber": "G1509"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 7,
+  "arriveTime": 8,
+  "timeTaken": 1,
+  "price": 117.5,
+  "idNumber": "G7643"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 7,
+  "arriveTime": 11,
+  "timeTaken": 4,
+  "price": 123.0,
+  "idNumber": "Z85"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 7,
+  "arriveTime": 10,
+  "timeTaken": 2,
+  "price": 208.5,
+  "idNumber": "G7349"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 8,
+  "arriveTime": 9,
+  "timeTaken": 1,
+  "price": 117.5,
+  "idNumber": "G7689"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 8,
+  "arriveTime": 12,
+  "timeTaken": 4,
+  "price": 167.0,
+  "idNumber": "D3135"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 8,
+  "arriveTime": 11,
+  "timeTaken": 2,
+  "price": 208.5,
+  "idNumber": "G7507"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 8,
+  "arriveTime": 10,
+  "timeTaken": 1,
+  "price": 117.5,
+  "idNumber": "G7635"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 9,
+  "arriveTime": 10,
+  "timeTaken": 1,
+  "price": 117.5,
+  "idNumber": "G7645"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 9,
+  "arriveTime": 12,
+  "timeTaken": 2,
+  "price": 208.5,
+  "idNumber": "G7599"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 9,
+  "arriveTime": 11,
+  "timeTaken": 1,
+  "price": 117.5,
+  "idNumber": "G7691"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 9,
+  "arriveTime": 13,
+  "timeTaken": 3,
+  "price": 216.0,
+  "idNumber": "G7591"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 10,
+  "arriveTime": 11,
+  "timeTaken": 1,
+  "price": 117.5,
+  "idNumber": "G61"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 10,
+  "arriveTime": 12,
+  "timeTaken": 2,
+  "price": 208.5,
+  "idNumber": "G7191"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 10,
+  "arriveTime": 13,
+  "timeTaken": 3,
+  "price": 208.5,
+  "idNumber": "G7375"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 11,
+  "arriveTime": 12,
+  "timeTaken": 1,
+  "price": 117.5,
+  "idNumber": "G1731"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 11,
+  "arriveTime": 14,
+  "timeTaken": 3,
+  "price": 167.0,
+  "idNumber": "D3141"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 11,
+  "arriveTime": 13,
+  "timeTaken": 1,
+  "price": 117.5,
+  "idNumber": "G1481"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 12,
+  "arriveTime": 13,
+  "timeTaken": 1,
+  "price": 117.5,
+  "idNumber": "G7453"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 12,
+  "arriveTime": 15,
+  "timeTaken": 3,
+  "price": 216.0,
+  "idNumber": "G7575"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 12,
+  "arriveTime": 14,
+  "timeTaken": 1,
+  "price": 78.0,
+  "idNumber": "D2187"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 13,
+  "arriveTime": 14,
+  "timeTaken": 1,
+  "price": 117.5,
+  "idNumber": "G1493"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 13,
+  "arriveTime": 15,
+  "timeTaken": 1,
+  "price": 117.5,
+  "idNumber": "G7601"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 13,
+  "arriveTime": 18,
+  "timeTaken": 5,
+  "price": 123.0,
+  "idNumber": "T111"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 13,
+  "arriveTime": 20,
+  "timeTaken": 7,
+  "price": 123.0,
+  "idNumber": "K525"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 13,
+  "arriveTime": 17,
+  "timeTaken": 3,
+  "price": 216.0,
+  "idNumber": "G7571"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 14,
+  "arriveTime": 15,
+  "timeTaken": 1,
+  "price": 117.5,
+  "idNumber": "G1495"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 14,
+  "arriveTime": 16,
+  "timeTaken": 1,
+  "price": 119.0,
+  "idNumber": "G1869"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 14,
+  "arriveTime": 21,
+  "timeTaken": 6,
+  "price": 123.0,
+  "idNumber": "K527"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 14,
+  "arriveTime": 18,
+  "timeTaken": 3,
+  "price": 216.0,
+  "idNumber": "G7563"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 15,
+  "arriveTime": 16,
+  "timeTaken": 1,
+  "price": 95.0,
+  "idNumber": "D3235"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 15,
+  "arriveTime": 18,
+  "timeTaken": 3,
+  "price": 208.5,
+  "idNumber": "G7385"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 15,
+  "arriveTime": 17,
+  "timeTaken": 1,
+  "price": 117.5,
+  "idNumber": "G589"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 16,
+  "arriveTime": 19,
+  "timeTaken": 3,
+  "price": 216.0,
+  "idNumber": "G7371"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 16,
+  "arriveTime": 17,
+  "timeTaken": 1,
+  "price": 117.5,
+  "idNumber": "G7485"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 16,
+  "arriveTime": 18,
+  "timeTaken": 1,
+  "price": 117.5,
+  "idNumber": "G7615"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 17,
+  "arriveTime": 19,
+  "timeTaken": 2,
+  "price": 208.5,
+  "idNumber": "G1227"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 17,
+  "arriveTime": 18,
+  "timeTaken": 1,
+  "price": 117.5,
+  "idNumber": "G593"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 17,
+  "arriveTime": 20,
+  "timeTaken": 3,
+  "price": 216.0,
+  "idNumber": "G7491"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 18,
+  "arriveTime": 19,
+  "timeTaken": 1,
+  "price": 117.5,
+  "idNumber": "G59"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 18,
+  "arriveTime": 20,
+  "timeTaken": 1,
+  "price": 81.0,
+  "idNumber": "D2245"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 18,
+  "arriveTime": 2,
+  "timeTaken": 8,
+  "price": 123.0,
+  "idNumber": "K8401"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 19,
+  "arriveTime": 20,
+  "timeTaken": 1,
+  "price": 117.5,
+  "idNumber": "G7655"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 19,
+  "arriveTime": 21,
+  "timeTaken": 1,
+  "price": 117.5,
+  "idNumber": "G1861"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 19,
+  "arriveTime": 2,
+  "timeTaken": 6,
+  "price": 110.5,
+  "idNumber": "K551"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 20,
+  "arriveTime": 21,
+  "timeTaken": 1,
+  "price": 119.0,
+  "idNumber": "G253"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 20,
+  "arriveTime": 3,
+  "timeTaken": 6,
+  "price": 110.5,
+  "idNumber": "K347"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 20,
+  "arriveTime": 22,
+  "timeTaken": 1,
+  "price": 117.5,
+  "idNumber": "G37"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 21,
+  "arriveTime": 22,
+  "timeTaken": 1,
+  "price": 62.0,
+  "idNumber": "D2261"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 22,
+  "arriveTime": 23,
+  "timeTaken": 1,
+  "price": 117.5,
+  "idNumber": "G39"
+}, {
+  "fromCity": 2,
+  "toCity": 3,
+  "startTime": 22,
+  "arriveTime": 6,
+  "timeTaken": 8,
+  "price": 123.0,
+  "idNumber": "K1805"
+}, {
+  "fromCity": 2,
+  "toCity": 0,
+  "startTime": 19,
+  "arriveTime": 20,
+  "timeTaken": 1,
+  "price": 785,
+  "idNumber": "JD5662"
+}, {
+  "fromCity": 2,
+  "toCity": 0,
+  "startTime": 15,
+  "arriveTime": 17,
+  "timeTaken": 2,
+  "price": 890,
+  "idNumber": "MU2831"
+}, {
+  "fromCity": 2,
+  "toCity": 0,
+  "startTime": 18,
+  "arriveTime": 20,
+  "timeTaken": 2,
+  "price": 890,
+  "idNumber": "MU2851"
+}, {
+  "fromCity": 2,
+  "toCity": 0,
+  "startTime": 8,
+  "arriveTime": 10,
+  "timeTaken": 2,
+  "price": 1090,
+  "idNumber": "MU2811"
+}, {
+  "fromCity": 2,
+  "toCity": 0,
+  "startTime": 20,
+  "arriveTime": 22,
+  "timeTaken": 2,
+  "price": 1090,
+  "idNumber": "MU2861"
+}, {
+  "fromCity": 2,
+  "toCity": 0,
+  "startTime": 16,
+  "arriveTime": 18,
+  "timeTaken": 2,
+  "price": 1290,
+  "idNumber": "MU2841"
+}, {
+  "fromCity": 2,
+  "toCity": 0,
+  "startTime": 12,
+  "arriveTime": 15,
+  "timeTaken": 3,
+  "price": 1680,
+  "idNumber": "MU2821"
+}, {
+  "fromCity": 2,
+  "toCity": 0,
+  "startTime": 17,
+  "arriveTime": 19,
+  "timeTaken": 2,
+  "price": 2240,
+  "idNumber": "CA1562"
+}, {
+  "fromCity": 3,
+  "toCity": 1,
+  "startTime": 6,
+  "arriveTime": 7,
+  "timeTaken": 1,
+  "price": 92.5,
+  "idNumber": "G7358"
+}, {
+  "fromCity": 3,
+  "toCity": 1,
+  "startTime": 6,
+  "arriveTime": 8,
+  "timeTaken": 1,
+  "price": 73.0,
+  "idNumber": "G7556"
+}, {
+  "fromCity": 3,
+  "toCity": 1,
+  "startTime": 7,
+  "arriveTime": 8,
+  "timeTaken": 1,
+  "price": 73.0,
+  "idNumber": "G7558"
+}, {
+  "fromCity": 3,
+  "toCity": 1,
+  "startTime": 7,
+  "arriveTime": 9,
+  "timeTaken": 1,
+  "price": 73.0,
+  "idNumber": "G7554"
+}, {
+  "fromCity": 3,
+  "toCity": 1,
+  "startTime": 8,
+  "arriveTime": 9,
+  "timeTaken": 1,
+  "price": 73.0,
+  "idNumber": "G7372"
+}, {
+  "fromCity": 3,
+  "toCity": 1,
+  "startTime": 9,
+  "arriveTime": 9,
+  "timeTaken": 0,
+  "price": 73.0,
+  "idNumber": "G7302"
+}, {
+  "fromCity": 3,
+  "toCity": 1,
+  "startTime": 9,
+  "arriveTime": 10,
+  "timeTaken": 1,
+  "price": 73.0,
+  "idNumber": "G7330"
+}, {
+  "fromCity": 3,
+  "toCity": 1,
+  "startTime": 9,
+  "arriveTime": 11,
+  "timeTaken": 1,
+  "price": 77.5,
+  "idNumber": "G7392"
+}, {
+  "fromCity": 3,
+  "toCity": 1,
+  "startTime": 10,
+  "arriveTime": 11,
+  "timeTaken": 1,
+  "price": 73.0,
+  "idNumber": "G1228"
+}, {
+  "fromCity": 3,
+  "toCity": 1,
+  "startTime": 10,
+  "arriveTime": 12,
+  "timeTaken": 1,
+  "price": 73.0,
+  "idNumber": "G7368"
+}, {
+  "fromCity": 3,
+  "toCity": 1,
+  "startTime": 11,
+  "arriveTime": 12,
+  "timeTaken": 1,
+  "price": 73.0,
+  "idNumber": "G7576"
+}, {
+  "fromCity": 3,
+  "toCity": 1,
+  "startTime": 12,
+  "arriveTime": 13,
+  "timeTaken": 1,
+  "price": 73.0,
+  "idNumber": "G7540"
+}, {
+  "fromCity": 3,
+  "toCity": 1,
+  "startTime": 13,
+  "arriveTime": 14,
+  "timeTaken": 1,
+  "price": 56.0,
+  "idNumber": "D3102"
+}, {
+  "fromCity": 3,
+  "toCity": 1,
+  "startTime": 13,
+  "arriveTime": 13,
+  "timeTaken": 0,
+  "price": 73.0,
+  "idNumber": "G1584"
+}, {
+  "fromCity": 3,
+  "toCity": 1,
+  "startTime": 13,
+  "arriveTime": 15,
+  "timeTaken": 1,
+  "price": 56.0,
+  "idNumber": "D3104"
+}, {
+  "fromCity": 3,
+  "toCity": 1,
+  "startTime": 14,
+  "arriveTime": 14,
+  "timeTaken": 0,
+  "price": 73.0,
+  "idNumber": "G86"
+}, {
+  "fromCity": 3,
+  "toCity": 1,
+  "startTime": 14,
+  "arriveTime": 15,
+  "timeTaken": 1,
+  "price": 73.0,
+  "idNumber": "G7542"
+}, {
+  "fromCity": 3,
+  "toCity": 1,
+  "startTime": 15,
+  "arriveTime": 16,
+  "timeTaken": 1,
+  "price": 73.0,
+  "idNumber": "G7592"
+}, {
+  "fromCity": 3,
+  "toCity": 1,
+  "startTime": 15,
+  "arriveTime": 17,
+  "timeTaken": 1,
+  "price": 88.0,
+  "idNumber": "G7318"
+}, {
+  "fromCity": 3,
+  "toCity": 1,
+  "startTime": 16,
+  "arriveTime": 17,
+  "timeTaken": 0,
+  "price": 73.0,
+  "idNumber": "G44"
+}, {
+  "fromCity": 3,
+  "toCity": 1,
+  "startTime": 16,
+  "arriveTime": 18,
+  "timeTaken": 1,
+  "price": 73.0,
+  "idNumber": "G1674"
+}, {
+  "fromCity": 3,
+  "toCity": 1,
+  "startTime": 17,
+  "arriveTime": 17,
+  "timeTaken": 0,
+  "price": 73.0,
+  "idNumber": "G7192"
+}, {
+  "fromCity": 3,
+  "toCity": 1,
+  "startTime": 17,
+  "arriveTime": 18,
+  "timeTaken": 1,
+  "price": 73.0,
+  "idNumber": "G7600"
+}, {
+  "fromCity": 3,
+  "toCity": 1,
+  "startTime": 17,
+  "arriveTime": 19,
+  "timeTaken": 1,
+  "price": 73.0,
+  "idNumber": "G7584"
+}, {
+  "fromCity": 3,
+  "toCity": 1,
+  "startTime": 18,
+  "arriveTime": 19,
+  "timeTaken": 0,
+  "price": 73.0,
+  "idNumber": "G1510"
+}, {
+  "fromCity": 3,
+  "toCity": 1,
+  "startTime": 19,
+  "arriveTime": 19,
+  "timeTaken": 0,
+  "price": 56.0,
+  "idNumber": "D3108"
+}, {
+  "fromCity": 3,
+  "toCity": 1,
+  "startTime": 19,
+  "arriveTime": 20,
+  "timeTaken": 0,
+  "price": 73.0,
+  "idNumber": "G7596"
+}, {
+  "fromCity": 3,
+  "toCity": 1,
+  "startTime": 20,
+  "arriveTime": 21,
+  "timeTaken": 1,
+  "price": 92.5,
+  "idNumber": "G7360"
+}, {
+  "fromCity": 3,
+  "toCity": 1,
+  "startTime": 20,
+  "arriveTime": 22,
+  "timeTaken": 1,
+  "price": 56.0,
+  "idNumber": "D3146"
+}, {
+  "fromCity": 3,
+  "toCity": 1,
+  "startTime": 21,
+  "arriveTime": 21,
+  "timeTaken": 0,
+  "price": 73.0,
+  "idNumber": "G1394"
+}, {
+  "fromCity": 3,
+  "toCity": 1,
+  "startTime": 21,
+  "arriveTime": 22,
+  "timeTaken": 0,
+  "price": 73.0,
+  "idNumber": "G7340"
+}, {
+  "fromCity": 3,
+  "toCity": 1,
+  "startTime": 22,
+  "arriveTime": 22,
+  "timeTaken": 0,
+  "price": 73.0,
+  "idNumber": "G2366"
+}, {
+  "fromCity": 3,
+  "toCity": 1,
+  "startTime": 22,
+  "arriveTime": 23,
+  "timeTaken": 0,
+  "price": 73.0,
+  "idNumber": "G1338"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 2,
+  "arriveTime": 8,
+  "timeTaken": 5,
+  "price": 123.0,
+  "idNumber": "K526"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 6,
+  "arriveTime": 8,
+  "timeTaken": 1,
+  "price": 119.0,
+  "idNumber": "G254"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 7,
+  "arriveTime": 8,
+  "timeTaken": 1,
+  "price": 117.5,
+  "idNumber": "G1874"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 7,
+  "arriveTime": 10,
+  "timeTaken": 2,
+  "price": 208.5,
+  "idNumber": "G1866"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 7,
+  "arriveTime": 9,
+  "timeTaken": 1,
+  "price": 71.0,
+  "idNumber": "D2222"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 7,
+  "arriveTime": 11,
+  "timeTaken": 3,
+  "price": 216.0,
+  "idNumber": "G7492"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 8,
+  "arriveTime": 9,
+  "timeTaken": 1,
+  "price": 95.0,
+  "idNumber": "D656"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 8,
+  "arriveTime": 11,
+  "timeTaken": 3,
+  "price": 216.0,
+  "idNumber": "G7372"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 8,
+  "arriveTime": 10,
+  "timeTaken": 1,
+  "price": 117.5,
+  "idNumber": "G1882"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 9,
+  "arriveTime": 10,
+  "timeTaken": 1,
+  "price": 117.5,
+  "idNumber": "G36"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 9,
+  "arriveTime": 11,
+  "timeTaken": 2,
+  "price": 208.5,
+  "idNumber": "G42"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 9,
+  "arriveTime": 12,
+  "timeTaken": 2,
+  "price": 208.5,
+  "idNumber": "G7386"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 9,
+  "arriveTime": 13,
+  "timeTaken": 3,
+  "price": 216.0,
+  "idNumber": "G7572"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 10,
+  "arriveTime": 12,
+  "timeTaken": 2,
+  "price": 208.5,
+  "idNumber": "G1228"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 10,
+  "arriveTime": 11,
+  "timeTaken": 1,
+  "price": 90.0,
+  "idNumber": "D2246"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 10,
+  "arriveTime": 15,
+  "timeTaken": 5,
+  "price": 123.0,
+  "idNumber": "T112"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 11,
+  "arriveTime": 14,
+  "timeTaken": 3,
+  "price": 216.0,
+  "idNumber": "G7576"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 11,
+  "arriveTime": 12,
+  "timeTaken": 1,
+  "price": 117.5,
+  "idNumber": "G1492"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 11,
+  "arriveTime": 18,
+  "timeTaken": 6,
+  "price": 123.0,
+  "idNumber": "K1806"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 11,
+  "arriveTime": 13,
+  "timeTaken": 1,
+  "price": 117.5,
+  "idNumber": "G168"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 12,
+  "arriveTime": 13,
+  "timeTaken": 1,
+  "price": 117.5,
+  "idNumber": "G1496"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 12,
+  "arriveTime": 14,
+  "timeTaken": 1,
+  "price": 117.5,
+  "idNumber": "G7616"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 12,
+  "arriveTime": 20,
+  "timeTaken": 7,
+  "price": 123.0,
+  "idNumber": "K1512"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 13,
+  "arriveTime": 14,
+  "timeTaken": 1,
+  "price": 117.5,
+  "idNumber": "G32"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 13,
+  "arriveTime": 15,
+  "timeTaken": 1,
+  "price": 117.5,
+  "idNumber": "G1482"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 13,
+  "arriveTime": 18,
+  "timeTaken": 5,
+  "price": 123.0,
+  "idNumber": "Z176"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 13,
+  "arriveTime": 20,
+  "timeTaken": 6,
+  "price": 123.0,
+  "idNumber": "K48"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 14,
+  "arriveTime": 15,
+  "timeTaken": 1,
+  "price": 119.0,
+  "idNumber": "G282"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 14,
+  "arriveTime": 16,
+  "timeTaken": 1,
+  "price": 117.5,
+  "idNumber": "G52"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 14,
+  "arriveTime": 18,
+  "timeTaken": 3,
+  "price": 167.0,
+  "idNumber": "D3142"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 15,
+  "arriveTime": 18,
+  "timeTaken": 3,
+  "price": 216.0,
+  "idNumber": "G7592"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 15,
+  "arriveTime": 16,
+  "timeTaken": 1,
+  "price": 117.5,
+  "idNumber": "G1962"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 15,
+  "arriveTime": 17,
+  "timeTaken": 1,
+  "price": 101.0,
+  "idNumber": "D2188"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 16,
+  "arriveTime": 17,
+  "timeTaken": 1,
+  "price": 117.5,
+  "idNumber": "G7690"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 16,
+  "arriveTime": 18,
+  "timeTaken": 2,
+  "price": 208.5,
+  "idNumber": "G44"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 16,
+  "arriveTime": 20,
+  "timeTaken": 3,
+  "price": 167.0,
+  "idNumber": "D3136"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 16,
+  "arriveTime": 21,
+  "timeTaken": 4,
+  "price": 123.0,
+  "idNumber": "Z86"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 17,
+  "arriveTime": 19,
+  "timeTaken": 2,
+  "price": 208.5,
+  "idNumber": "G7192"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 17,
+  "arriveTime": 22,
+  "timeTaken": 5,
+  "price": 123.0,
+  "idNumber": "Z282"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 17,
+  "arriveTime": 20,
+  "timeTaken": 3,
+  "price": 208.5,
+  "idNumber": "G7600"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 17,
+  "arriveTime": 18,
+  "timeTaken": 1,
+  "price": 117.5,
+  "idNumber": "G7456"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 17,
+  "arriveTime": 21,
+  "timeTaken": 3,
+  "price": 139.0,
+  "idNumber": "D3126"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 17,
+  "arriveTime": 1,
+  "timeTaken": 7,
+  "price": 123.0,
+  "idNumber": "K8352"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 18,
+  "arriveTime": 19,
+  "timeTaken": 1,
+  "price": 117.5,
+  "idNumber": "G64"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 18,
+  "arriveTime": 20,
+  "timeTaken": 2,
+  "price": 208.5,
+  "idNumber": "G1510"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 18,
+  "arriveTime": 21,
+  "timeTaken": 2,
+  "price": 208.5,
+  "idNumber": "G1378"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 18,
+  "arriveTime": 1,
+  "timeTaken": 6,
+  "price": 123.0,
+  "idNumber": "K76"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 18,
+  "arriveTime": 22,
+  "timeTaken": 3,
+  "price": 216.0,
+  "idNumber": "G7588"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 19,
+  "arriveTime": 20,
+  "timeTaken": 1,
+  "price": 117.5,
+  "idNumber": "G40"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 19,
+  "arriveTime": 2,
+  "timeTaken": 7,
+  "price": 123.0,
+  "idNumber": "K1182"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 19,
+  "arriveTime": 21,
+  "timeTaken": 2,
+  "price": 208.5,
+  "idNumber": "G7596"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 19,
+  "arriveTime": 1,
+  "timeTaken": 5,
+  "price": 110.5,
+  "idNumber": "K102"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 19,
+  "arriveTime": 22,
+  "timeTaken": 3,
+  "price": 216.0,
+  "idNumber": "G7582"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 20,
+  "arriveTime": 23,
+  "timeTaken": 3,
+  "price": 128.0,
+  "idNumber": "D2282"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 20,
+  "arriveTime": 0,
+  "timeTaken": 3,
+  "price": 80.0,
+  "idNumber": "D712"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 20,
+  "arriveTime": 2,
+  "timeTaken": 5,
+  "price": 110.5,
+  "idNumber": "K552"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 20,
+  "arriveTime": 22,
+  "timeTaken": 1,
+  "price": 117.5,
+  "idNumber": "G1504"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 21,
+  "arriveTime": 22,
+  "timeTaken": 1,
+  "price": 117.5,
+  "idNumber": "G1668"
+}, {
+  "fromCity": 3,
+  "toCity": 2,
+  "startTime": 21,
+  "arriveTime": 23,
+  "timeTaken": 1,
+  "price": 117.5,
+  "idNumber": "G1506"
+}, {
+  "fromCity": 3,
+  "toCity": 4,
+  "startTime": 8,
+  "arriveTime": 14,
+  "timeTaken": 6,
+  "price": 720.0,
+  "idNumber": "G85"
+}, {
+  "fromCity": 3,
+  "toCity": 4,
+  "startTime": 11,
+  "arriveTime": 19,
+  "timeTaken": 7,
+  "price": 720.0,
+  "idNumber": "G1301"
+}, {
+  "fromCity": 3,
+  "toCity": 4,
+  "startTime": 12,
+  "arriveTime": 5,
+  "timeTaken": 16,
+  "price": 296.5,
+  "idNumber": "T169"
+}, {
+  "fromCity": 3,
+  "toCity": 4,
+  "startTime": 15,
+  "arriveTime": 21,
+  "timeTaken": 6,
+  "price": 720.0,
+  "idNumber": "G99"
+}, {
+  "fromCity": 3,
+  "toCity": 4,
+  "startTime": 16,
+  "arriveTime": 23,
+  "timeTaken": 7,
+  "price": 720.0,
+  "idNumber": "G1305"
+}, {
+  "fromCity": 3,
+  "toCity": 4,
+  "startTime": 18,
+  "arriveTime": 14,
+  "timeTaken": 19,
+  "price": 296.5,
+  "idNumber": "K209"
+}, {
+  "fromCity": 3,
+  "toCity": 4,
+  "startTime": 21,
+  "arriveTime": 18,
+  "timeTaken": 21,
+  "price": 328.0,
+  "idNumber": "K527"
+}, {
+  "fromCity": 3,
+  "toCity": 4,
+  "startTime": 21,
+  "arriveTime": 17,
+  "timeTaken": 19,
+  "price": 328.0,
+  "idNumber": "K511"
+}, {
+  "fromCity": 3,
+  "toCity": 4,
+  "startTime": 15,
+  "arriveTime": 16,
+  "timeTaken": 1,
+  "price": 480,
+  "idNumber": "MU5583"
+}, {
+  "fromCity": 3,
+  "toCity": 4,
+  "startTime": 7,
+  "arriveTime": 8,
+  "timeTaken": 1,
+  "price": 544,
+  "idNumber": "MF8303"
+}, {
+  "fromCity": 3,
+  "toCity": 4,
+  "startTime": 13,
+  "arriveTime": 15,
+  "timeTaken": 2,
+  "price": 640,
+  "idNumber": "MF1078"
+}, {
+  "fromCity": 3,
+  "toCity": 4,
+  "startTime": 17,
+  "arriveTime": 19,
+  "timeTaken": 2,
+  "price": 640,
+  "idNumber": "MF1077"
+}, {
+  "fromCity": 3,
+  "toCity": 4,
+  "startTime": 19,
+  "arriveTime": 21,
+  "timeTaken": 2,
+  "price": 640,
+  "idNumber": "MF1079"
+}, {
+  "fromCity": 3,
+  "toCity": 4,
+  "startTime": 7,
+  "arriveTime": 9,
+  "timeTaken": 2,
+  "price": 690,
+  "idNumber": "HU7262"
+}, {
+  "fromCity": 3,
+  "toCity": 4,
+  "startTime": 8,
+  "arriveTime": 10,
+  "timeTaken": 2,
+  "price": 870,
+  "idNumber": "MU5211"
+}, {
+  "fromCity": 3,
+  "toCity": 4,
+  "startTime": 12,
+  "arriveTime": 14,
+  "timeTaken": 2,
+  "price": 870,
+  "idNumber": "MU5215"
+}, {
+  "fromCity": 3,
+  "toCity": 4,
+  "startTime": 20,
+  "arriveTime": 22,
+  "timeTaken": 2,
+  "price": 875,
+  "idNumber": "JD5170"
+}, {
+  "fromCity": 3,
+  "toCity": 4,
+  "startTime": 21,
+  "arriveTime": 23,
+  "timeTaken": 2,
+  "price": 900,
+  "idNumber": "ZH9982"
+}, {
+  "fromCity": 3,
+  "toCity": 4,
+  "startTime": 10,
+  "arriveTime": 12,
+  "timeTaken": 2,
+  "price": 914,
+  "idNumber": "MF8381"
+}, {
+  "fromCity": 3,
+  "toCity": 4,
+  "startTime": 16,
+  "arriveTime": 18,
+  "timeTaken": 2,
+  "price": 950,
+  "idNumber": "FM9351"
+}, {
+  "fromCity": 3,
+  "toCity": 4,
+  "startTime": 15,
+  "arriveTime": 17,
+  "timeTaken": 2,
+  "price": 984,
+  "idNumber": "MF8319"
+}, {
+  "fromCity": 3,
+  "toCity": 4,
+  "startTime": 14,
+  "arriveTime": 16,
+  "timeTaken": 2,
+  "price": 1000,
+  "idNumber": "MU5132"
+}, {
+  "fromCity": 3,
+  "toCity": 4,
+  "startTime": 11,
+  "arriveTime": 13,
+  "timeTaken": 2,
+  "price": 1018,
+  "idNumber": "GJ8699"
+}, {
+  "fromCity": 3,
+  "toCity": 4,
+  "startTime": 22,
+  "arriveTime": 0,
+  "timeTaken": 2,
+  "price": 1070,
+  "idNumber": "MF1031"
+}, {
+  "fromCity": 3,
+  "toCity": 4,
+  "startTime": 14,
+  "arriveTime": 17,
+  "timeTaken": 3,
+  "price": 1210,
+  "idNumber": "MF1032"
+}, {
+  "fromCity": 3,
+  "toCity": 4,
+  "startTime": 16,
+  "arriveTime": 19,
+  "timeTaken": 3,
+  "price": 1210,
+  "idNumber": "CZ3512"
+}, {
+  "fromCity": 3,
+  "toCity": 4,
+  "startTime": 12,
+  "arriveTime": 15,
+  "timeTaken": 3,
+  "price": 1440,
+  "idNumber": "CZ3804"
+}, {
+  "fromCity": 3,
+  "toCity": 4,
+  "startTime": 18,
+  "arriveTime": 20,
+  "timeTaken": 2,
+  "price": 1440,
+  "idNumber": "MU3118"
+}, {
+  "fromCity": 4,
+  "toCity": 5,
+  "startTime": 6,
+  "arriveTime": 10,
+  "timeTaken": 4,
+  "price": 463.5,
+  "idNumber": "G296"
+}, {
+  "fromCity": 4,
+  "toCity": 5,
+  "startTime": 6,
+  "arriveTime": 11,
+  "timeTaken": 4,
+  "price": 463.5,
+  "idNumber": "G276"
+}, {
+  "fromCity": 4,
+  "toCity": 5,
+  "startTime": 7,
+  "arriveTime": 11,
+  "timeTaken": 4,
+  "price": 463.5,
+  "idNumber": "G832"
+}, {
+  "fromCity": 4,
+  "toCity": 5,
+  "startTime": 7,
+  "arriveTime": 12,
+  "timeTaken": 4,
+  "price": 463.5,
+  "idNumber": "G72"
+}, {
+  "fromCity": 4,
+  "toCity": 5,
+  "startTime": 8,
+  "arriveTime": 12,
+  "timeTaken": 3,
+  "price": 463.5,
+  "idNumber": "G2056"
+}, {
+  "fromCity": 4,
+  "toCity": 5,
+  "startTime": 9,
+  "arriveTime": 12,
+  "timeTaken": 3,
+  "price": 463.5,
+  "idNumber": "G80"
+}, {
+  "fromCity": 4,
+  "toCity": 5,
+  "startTime": 9,
+  "arriveTime": 13,
+  "timeTaken": 4,
+  "price": 463.5,
+  "idNumber": "G1004"
+}, {
+  "fromCity": 4,
+  "toCity": 5,
+  "startTime": 9,
+  "arriveTime": 14,
+  "timeTaken": 4,
+  "price": 463.5,
+  "idNumber": "G542"
+}, {
+  "fromCity": 4,
+  "toCity": 5,
+  "startTime": 10,
+  "arriveTime": 13,
+  "timeTaken": 3,
+  "price": 463.5,
+  "idNumber": "G66"
+}, {
+  "fromCity": 4,
+  "toCity": 5,
+  "startTime": 10,
+  "arriveTime": 14,
+  "timeTaken": 4,
+  "price": 463.5,
+  "idNumber": "G1006"
+}, {
+  "fromCity": 4,
+  "toCity": 5,
+  "startTime": 10,
+  "arriveTime": 15,
+  "timeTaken": 4,
+  "price": 463.5,
+  "idNumber": "G1112"
+}, {
+  "fromCity": 4,
+  "toCity": 5,
+  "startTime": 11,
+  "arriveTime": 15,
+  "timeTaken": 4,
+  "price": 463.5,
+  "idNumber": "G1114"
+}, {
+  "fromCity": 4,
+  "toCity": 5,
+  "startTime": 11,
+  "arriveTime": 16,
+  "timeTaken": 4,
+  "price": 463.5,
+  "idNumber": "G1152"
+}, {
+  "fromCity": 4,
+  "toCity": 5,
+  "startTime": 12,
+  "arriveTime": 16,
+  "timeTaken": 4,
+  "price": 463.5,
+  "idNumber": "G1120"
+}, {
+  "fromCity": 4,
+  "toCity": 5,
+  "startTime": 12,
+  "arriveTime": 17,
+  "timeTaken": 4,
+  "price": 463.5,
+  "idNumber": "G70"
+}, {
+  "fromCity": 4,
+  "toCity": 5,
+  "startTime": 13,
+  "arriveTime": 17,
+  "timeTaken": 4,
+  "price": 463.5,
+  "idNumber": "G1032"
+}, {
+  "fromCity": 4,
+  "toCity": 5,
+  "startTime": 13,
+  "arriveTime": 18,
+  "timeTaken": 4,
+  "price": 463.5,
+  "idNumber": "G1012"
+}, {
+  "fromCity": 4,
+  "toCity": 5,
+  "startTime": 14,
+  "arriveTime": 19,
+  "timeTaken": 5,
+  "price": 463.5,
+  "idNumber": "G554"
+}, {
+  "fromCity": 4,
+  "toCity": 5,
+  "startTime": 14,
+  "arriveTime": 18,
+  "timeTaken": 4,
+  "price": 463.5,
+  "idNumber": "G546"
+}, {
+  "fromCity": 4,
+  "toCity": 5,
+  "startTime": 15,
+  "arriveTime": 19,
+  "timeTaken": 4,
+  "price": 463.5,
+  "idNumber": "G1146"
+}, {
+  "fromCity": 4,
+  "toCity": 5,
+  "startTime": 15,
+  "arriveTime": 20,
+  "timeTaken": 4,
+  "price": 463.5,
+  "idNumber": "G1036"
+}, {
+  "fromCity": 4,
+  "toCity": 5,
+  "startTime": 16,
+  "arriveTime": 20,
+  "timeTaken": 4,
+  "price": 463.5,
+  "idNumber": "G1014"
+}, {
+  "fromCity": 4,
+  "toCity": 5,
+  "startTime": 16,
+  "arriveTime": 21,
+  "timeTaken": 4,
+  "price": 463.5,
+  "idNumber": "G1162"
+}, {
+  "fromCity": 4,
+  "toCity": 5,
+  "startTime": 17,
+  "arriveTime": 21,
+  "timeTaken": 4,
+  "price": 463.5,
+  "idNumber": "G1020"
+}, {
+  "fromCity": 4,
+  "toCity": 5,
+  "startTime": 17,
+  "arriveTime": 22,
+  "timeTaken": 4,
+  "price": 463.5,
+  "idNumber": "G1138"
+}, {
+  "fromCity": 4,
+  "toCity": 5,
+  "startTime": 18,
+  "arriveTime": 23,
+  "timeTaken": 4,
+  "price": 463.5,
+  "idNumber": "G1140"
+}, {
+  "fromCity": 4,
+  "toCity": 6,
+  "startTime": 7,
+  "arriveTime": 17,
+  "timeTaken": 9,
+  "price": 574.0,
+  "idNumber": "D1849"
+}, {
+  "fromCity": 4,
+  "toCity": 6,
+  "startTime": 8,
+  "arriveTime": 18,
+  "timeTaken": 10,
+  "price": 541.0,
+  "idNumber": "D1806"
+}, {
+  "fromCity": 4,
+  "toCity": 6,
+  "startTime": 9,
+  "arriveTime": 19,
+  "timeTaken": 10,
+  "price": 566.0,
+  "idNumber": "D1810"
+}, {
+  "fromCity": 4,
+  "toCity": 6,
+  "startTime": 9,
+  "arriveTime": 20,
+  "timeTaken": 10,
+  "price": 549.0,
+  "idNumber": "D1853"
+}, {
+  "fromCity": 4,
+  "toCity": 6,
+  "startTime": 10,
+  "arriveTime": 20,
+  "timeTaken": 10,
+  "price": 541.0,
+  "idNumber": "D1818"
+}, {
+  "fromCity": 4,
+  "toCity": 6,
+  "startTime": 11,
+  "arriveTime": 21,
+  "timeTaken": 10,
+  "price": 566.0,
+  "idNumber": "D1822"
+}, {
+  "fromCity": 4,
+  "toCity": 6,
+  "startTime": 11,
+  "arriveTime": 23,
+  "timeTaken": 35,
+  "price": 408.0,
+  "idNumber": "K587"
+}, {
+  "fromCity": 4,
+  "toCity": 6,
+  "startTime": 12,
+  "arriveTime": 21,
+  "timeTaken": 9,
+  "price": 566.0,
+  "idNumber": "D1826"
+}, {
+  "fromCity": 4,
+  "toCity": 6,
+  "startTime": 12,
+  "arriveTime": 23,
+  "timeTaken": 10,
+  "price": 549.0,
+  "idNumber": "D1857"
+}, {
+  "fromCity": 4,
+  "toCity": 6,
+  "startTime": 13,
+  "arriveTime": 17,
+  "timeTaken": 28,
+  "price": 414.0,
+  "idNumber": "K486"
+}, {
+  "fromCity": 4,
+  "toCity": 6,
+  "startTime": 13,
+  "arriveTime": 23,
+  "timeTaken": 10,
+  "price": 541.0,
+  "idNumber": "D1834"
+}, {
+  "fromCity": 4,
+  "toCity": 6,
+  "startTime": 14,
+  "arriveTime": 18,
+  "timeTaken": 28,
+  "price": 381.0,
+  "idNumber": "K192"
+}, {
+  "fromCity": 4,
+  "toCity": 6,
+  "startTime": 16,
+  "arriveTime": 6,
+  "timeTaken": 38,
+  "price": 446.5,
+  "idNumber": "K827"
+}, {
+  "fromCity": 4,
+  "toCity": 6,
+  "startTime": 22,
+  "arriveTime": 23,
+  "timeTaken": 25,
+  "price": 480.5,
+  "idNumber": "Z122"
+}, {
+  "fromCity": 4,
+  "toCity": 3,
+  "startTime": 7,
+  "arriveTime": 2,
+  "timeTaken": 18,
+  "price": 328.0,
+  "idNumber": "K528"
+}, {
+  "fromCity": 4,
+  "toCity": 3,
+  "startTime": 8,
+  "arriveTime": 14,
+  "timeTaken": 6,
+  "price": 720.0,
+  "idNumber": "G86"
+}, {
+  "fromCity": 4,
+  "toCity": 3,
+  "startTime": 8,
+  "arriveTime": 6,
+  "timeTaken": 21,
+  "price": 328.0,
+  "idNumber": "K512"
+}, {
+  "fromCity": 4,
+  "toCity": 3,
+  "startTime": 12,
+  "arriveTime": 18,
+  "timeTaken": 6,
+  "price": 720.0,
+  "idNumber": "G100"
+}, {
+  "fromCity": 4,
+  "toCity": 3,
+  "startTime": 13,
+  "arriveTime": 20,
+  "timeTaken": 7,
+  "price": 720.0,
+  "idNumber": "G1304"
+}, {
+  "fromCity": 4,
+  "toCity": 3,
+  "startTime": 14,
+  "arriveTime": 7,
+  "timeTaken": 16,
+  "price": 296.5,
+  "idNumber": "T170"
+}, {
+  "fromCity": 4,
+  "toCity": 3,
+  "startTime": 15,
+  "arriveTime": 22,
+  "timeTaken": 6,
+  "price": 720.0,
+  "idNumber": "G1306"
+}, {
+  "fromCity": 4,
+  "toCity": 3,
+  "startTime": 15,
+  "arriveTime": 23,
+  "timeTaken": 7,
+  "price": 720.0,
+  "idNumber": "G1404"
+}, {
+  "fromCity": 4,
+  "toCity": 3,
+  "startTime": 20,
+  "arriveTime": 13,
+  "timeTaken": 16,
+  "price": 296.5,
+  "idNumber": "K210"
+}, {
+  "fromCity": 4,
+  "toCity": 3,
+  "startTime": 23,
+  "arriveTime": 0,
+  "timeTaken": 1,
+  "price": 380,
+  "idNumber": "MU5584"
+}, {
+  "fromCity": 4,
+  "toCity": 3,
+  "startTime": 11,
+  "arriveTime": 12,
+  "timeTaken": 1,
+  "price": 530,
+  "idNumber": "CZ3823"
+}, {
+  "fromCity": 4,
+  "toCity": 3,
+  "startTime": 9,
+  "arriveTime": 11,
+  "timeTaken": 2,
+  "price": 624,
+  "idNumber": "MF8304"
+}, {
+  "fromCity": 4,
+  "toCity": 3,
+  "startTime": 17,
+  "arriveTime": 18,
+  "timeTaken": 1,
+  "price": 700,
+  "idNumber": "CZ6875"
+}, {
+  "fromCity": 4,
+  "toCity": 3,
+  "startTime": 21,
+  "arriveTime": 22,
+  "timeTaken": 1,
+  "price": 837,
+  "idNumber": "MF8388"
+}, {
+  "fromCity": 4,
+  "toCity": 3,
+  "startTime": 15,
+  "arriveTime": 16,
+  "timeTaken": 1,
+  "price": 860,
+  "idNumber": "MF1080"
+}, {
+  "fromCity": 4,
+  "toCity": 6,
+  "startTime": 8,
+  "arriveTime": 10,
+  "timeTaken": 2,
+  "price": 900,
+  "idNumber": "MU2653"
+}, {
+  "fromCity": 4,
+  "toCity": 6,
+  "startTime": 22,
+  "arriveTime": 0,
+  "timeTaken": 2,
+  "price": 910,
+  "idNumber": "CA4588"
+}, {
+  "fromCity": 4,
+  "toCity": 6,
+  "startTime": 7,
+  "arriveTime": 9,
+  "timeTaken": 2,
+  "price": 990,
+  "idNumber": "CA8221"
+}, {
+  "fromCity": 4,
+  "toCity": 6,
+  "startTime": 21,
+  "arriveTime": 0,
+  "timeTaken": 3,
+  "price": 1000,
+  "idNumber": "3U8986"
+}, {
+  "fromCity": 4,
+  "toCity": 6,
+  "startTime": 19,
+  "arriveTime": 21,
+  "timeTaken": 2,
+  "price": 1014,
+  "idNumber": "EU2714"
+}, {
+  "fromCity": 4,
+  "toCity": 6,
+  "startTime": 10,
+  "arriveTime": 12,
+  "timeTaken": 2,
+  "price": 1360,
+  "idNumber": "MU2464"
+}, {
+  "fromCity": 4,
+  "toCity": 6,
+  "startTime": 13,
+  "arriveTime": 15,
+  "timeTaken": 2,
+  "price": 1360,
+  "idNumber": "MU2651"
+}, {
+  "fromCity": 4,
+  "toCity": 6,
+  "startTime": 18,
+  "arriveTime": 20,
+  "timeTaken": 2,
+  "price": 1360,
+  "idNumber": "MU2458"
+}, {
+  "fromCity": 4,
+  "toCity": 3,
+  "startTime": 7,
+  "arriveTime": 9,
+  "timeTaken": 2,
+  "price": 647,
+  "idNumber": "FM9352"
+}, {
+  "fromCity": 4,
+  "toCity": 3,
+  "startTime": 23,
+  "arriveTime": 1,
+  "timeTaken": 2,
+  "price": 682,
+  "idNumber": "JD5169"
+}, {
+  "fromCity": 4,
+  "toCity": 3,
+  "startTime": 11,
+  "arriveTime": 13,
+  "timeTaken": 2,
+  "price": 733,
+  "idNumber": "HU7261"
+}, {
+  "fromCity": 4,
+  "toCity": 3,
+  "startTime": 18,
+  "arriveTime": 21,
+  "timeTaken": 3,
+  "price": 891,
+  "idNumber": "MF8320"
+}, {
+  "fromCity": 4,
+  "toCity": 3,
+  "startTime": 7,
+  "arriveTime": 10,
+  "timeTaken": 3,
+  "price": 907,
+  "idNumber": "MF1015"
+}, {
+  "fromCity": 4,
+  "toCity": 3,
+  "startTime": 17,
+  "arriveTime": 20,
+  "timeTaken": 3,
+  "price": 907,
+  "idNumber": "MU5216"
+}, {
+  "fromCity": 4,
+  "toCity": 3,
+  "startTime": 20,
+  "arriveTime": 22,
+  "timeTaken": 2,
+  "price": 907,
+  "idNumber": "MU5218"
+}, {
+  "fromCity": 4,
+  "toCity": 3,
+  "startTime": 10,
+  "arriveTime": 12,
+  "timeTaken": 2,
+  "price": 917,
+  "idNumber": "CA1720"
+}, {
+  "fromCity": 4,
+  "toCity": 3,
+  "startTime": 17,
+  "arriveTime": 19,
+  "timeTaken": 2,
+  "price": 917,
+  "idNumber": "CA1722"
+}, {
+  "fromCity": 4,
+  "toCity": 3,
+  "startTime": 18,
+  "arriveTime": 20,
+  "timeTaken": 2,
+  "price": 977,
+  "idNumber": "MF1016"
+}, {
+  "fromCity": 4,
+  "toCity": 3,
+  "startTime": 19,
+  "arriveTime": 21,
+  "timeTaken": 2,
+  "price": 977,
+  "idNumber": "CZ3849"
+}, {
+  "fromCity": 4,
+  "toCity": 3,
+  "startTime": 13,
+  "arriveTime": 16,
+  "timeTaken": 3,
+  "price": 1031,
+  "idNumber": "MF8382"
+}, {
+  "fromCity": 4,
+  "toCity": 3,
+  "startTime": 13,
+  "arriveTime": 15,
+  "timeTaken": 2,
+  "price": 1047,
+  "idNumber": "CZ3511"
+}, {
+  "fromCity": 4,
+  "toCity": 3,
+  "startTime": 14,
+  "arriveTime": 17,
+  "timeTaken": 3,
+  "price": 1047,
+  "idNumber": "CZ3501"
+}, {
+  "fromCity": 4,
+  "toCity": 3,
+  "startTime": 15,
+  "arriveTime": 18,
+  "timeTaken": 3,
+  "price": 1047,
+  "idNumber": "MF1020"
+}, {
+  "fromCity": 4,
+  "toCity": 6,
+  "startTime": 6,
+  "arriveTime": 8,
+  "timeTaken": 2,
+  "price": 677,
+  "idNumber": "CZ8647"
+}, {
+  "fromCity": 4,
+  "toCity": 6,
+  "startTime": 10,
+  "arriveTime": 13,
+  "timeTaken": 3,
+  "price": 877,
+  "idNumber": "3U8738"
+}, {
+  "fromCity": 4,
+  "toCity": 6,
+  "startTime": 16,
+  "arriveTime": 19,
+  "timeTaken": 3,
+  "price": 877,
+  "idNumber": "3U8744"
+}, {
+  "fromCity": 4,
+  "toCity": 6,
+  "startTime": 17,
+  "arriveTime": 19,
+  "timeTaken": 2,
+  "price": 877,
+  "idNumber": "3U8734"
+}, {
+  "fromCity": 4,
+  "toCity": 6,
+  "startTime": 9,
+  "arriveTime": 11,
+  "timeTaken": 2,
+  "price": 937,
+  "idNumber": "CZ3437"
+}, {
+  "fromCity": 4,
+  "toCity": 6,
+  "startTime": 12,
+  "arriveTime": 14,
+  "timeTaken": 2,
+  "price": 937,
+  "idNumber": "MF1568"
+}, {
+  "fromCity": 4,
+  "toCity": 6,
+  "startTime": 18,
+  "arriveTime": 21,
+  "timeTaken": 3,
+  "price": 937,
+  "idNumber": "MF1562"
+}, {
+  "fromCity": 4,
+  "toCity": 6,
+  "startTime": 21,
+  "arriveTime": 23,
+  "timeTaken": 2,
+  "price": 947,
+  "idNumber": "ZH9443"
+}, {
+  "fromCity": 4,
+  "toCity": 6,
+  "startTime": 16,
+  "arriveTime": 18,
+  "timeTaken": 2,
+  "price": 1009,
+  "idNumber": "HU7351"
+}, {
+  "fromCity": 4,
+  "toCity": 6,
+  "startTime": 11,
+  "arriveTime": 13,
+  "timeTaken": 2,
+  "price": 1027,
+  "idNumber": "CA4306"
+}, {
+  "fromCity": 4,
+  "toCity": 6,
+  "startTime": 15,
+  "arriveTime": 17,
+  "timeTaken": 2,
+  "price": 1027,
+  "idNumber": "CA4318"
+}, {
+  "fromCity": 4,
+  "toCity": 6,
+  "startTime": 17,
+  "arriveTime": 20,
+  "timeTaken": 3,
+  "price": 1027,
+  "idNumber": "CA4302"
+}, {
+  "fromCity": 4,
+  "toCity": 6,
+  "startTime": 20,
+  "arriveTime": 23,
+  "timeTaken": 3,
+  "price": 1027,
+  "idNumber": "CA4304"
+}, {
+  "fromCity": 4,
+  "toCity": 6,
+  "startTime": 15,
+  "arriveTime": 18,
+  "timeTaken": 3,
+  "price": 1297,
+  "idNumber": "MF1557"
+}, {
+  "fromCity": 5,
+  "toCity": 0,
+  "startTime": 8,
+  "arriveTime": 13,
+  "timeTaken": 5,
+  "price": 520.5,
+  "idNumber": "G510"
+}, {
+  "fromCity": 5,
+  "toCity": 0,
+  "startTime": 8,
+  "arriveTime": 12,
+  "timeTaken": 4,
+  "price": 520.5,
+  "idNumber": "G588"
+}, {
+  "fromCity": 5,
+  "toCity": 0,
+  "startTime": 8,
+  "arriveTime": 14,
+  "timeTaken": 5,
+  "price": 520.5,
+  "idNumber": "G534"
+}, {
+  "fromCity": 5,
+  "toCity": 0,
+  "startTime": 9,
+  "arriveTime": 14,
+  "timeTaken": 5,
+  "price": 520.5,
+  "idNumber": "G502"
+}, {
+  "fromCity": 5,
+  "toCity": 0,
+  "startTime": 10,
+  "arriveTime": 15,
+  "timeTaken": 5,
+  "price": 520.5,
+  "idNumber": "G572"
+}, {
+  "fromCity": 5,
+  "toCity": 0,
+  "startTime": 12,
+  "arriveTime": 18,
+  "timeTaken": 6,
+  "price": 520.5,
+  "idNumber": "G72"
+}, {
+  "fromCity": 5,
+  "toCity": 0,
+  "startTime": 12,
+  "arriveTime": 17,
+  "timeTaken": 4,
+  "price": 520.5,
+  "idNumber": "G80"
+}, {
+  "fromCity": 5,
+  "toCity": 0,
+  "startTime": 13,
+  "arriveTime": 17,
+  "timeTaken": 4,
+  "price": 520.5,
+  "idNumber": "G516"
+}, {
+  "fromCity": 5,
+  "toCity": 0,
+  "startTime": 13,
+  "arriveTime": 18,
+  "timeTaken": 4,
+  "price": 520.5,
+  "idNumber": "G66"
+}, {
+  "fromCity": 5,
+  "toCity": 0,
+  "startTime": 14,
+  "arriveTime": 18,
+  "timeTaken": 4,
+  "price": 520.5,
+  "idNumber": "G404"
+}, {
+  "fromCity": 5,
+  "toCity": 0,
+  "startTime": 15,
+  "arriveTime": 21,
+  "timeTaken": 5,
+  "price": 520.5,
+  "idNumber": "G68"
+}, {
+  "fromCity": 5,
+  "toCity": 0,
+  "startTime": 16,
+  "arriveTime": 20,
+  "timeTaken": 4,
+  "price": 520.5,
+  "idNumber": "G422"
+}, {
+  "fromCity": 5,
+  "toCity": 0,
+  "startTime": 16,
+  "arriveTime": 21,
+  "timeTaken": 5,
+  "price": 520.5,
+  "idNumber": "G402"
+}, {
+  "fromCity": 5,
+  "toCity": 0,
+  "startTime": 16,
+  "arriveTime": 22,
+  "timeTaken": 5,
+  "price": 520.5,
+  "idNumber": "G506"
+}, {
+  "fromCity": 5,
+  "toCity": 0,
+  "startTime": 17,
+  "arriveTime": 22,
+  "timeTaken": 5,
+  "price": 520.5,
+  "idNumber": "G70"
+}, {
+  "fromCity": 5,
+  "toCity": 0,
+  "startTime": 18,
+  "arriveTime": 23,
+  "timeTaken": 4,
+  "price": 520.5,
+  "idNumber": "G406"
+}, {
+  "fromCity": 5,
+  "toCity": 7,
+  "startTime": 9,
+  "arriveTime": 14,
+  "timeTaken": 5,
+  "price": 454.5,
+  "idNumber": "G856"
+}, {
+  "fromCity": 5,
+  "toCity": 7,
+  "startTime": 10,
+  "arriveTime": 14,
+  "timeTaken": 4,
+  "price": 454.5,
+  "idNumber": "G640"
+}, {
+  "fromCity": 5,
+  "toCity": 7,
+  "startTime": 10,
+  "arriveTime": 16,
+  "timeTaken": 5,
+  "price": 454.5,
+  "idNumber": "G864"
+}, {
+  "fromCity": 5,
+  "toCity": 7,
+  "startTime": 11,
+  "arriveTime": 16,
+  "timeTaken": 4,
+  "price": 454.5,
+  "idNumber": "G832"
+}, {
+  "fromCity": 5,
+  "toCity": 7,
+  "startTime": 12,
+  "arriveTime": 17,
+  "timeTaken": 4,
+  "price": 454.5,
+  "idNumber": "G852"
+}, {
+  "fromCity": 5,
+  "toCity": 7,
+  "startTime": 12,
+  "arriveTime": 16,
+  "timeTaken": 3,
+  "price": 454.5,
+  "idNumber": "G96"
+}, {
+  "fromCity": 5,
+  "toCity": 7,
+  "startTime": 14,
+  "arriveTime": 19,
+  "timeTaken": 4,
+  "price": 454.5,
+  "idNumber": "G818"
+}, {
+  "fromCity": 5,
+  "toCity": 7,
+  "startTime": 15,
+  "arriveTime": 20,
+  "timeTaken": 4,
+  "price": 454.5,
+  "idNumber": "G836"
+}, {
+  "fromCity": 5,
+  "toCity": 7,
+  "startTime": 16,
+  "arriveTime": 21,
+  "timeTaken": 4,
+  "price": 454.5,
+  "idNumber": "G844"
+}, {
+  "fromCity": 5,
+  "toCity": 7,
+  "startTime": 17,
+  "arriveTime": 22,
+  "timeTaken": 5,
+  "price": 454.5,
+  "idNumber": "G860"
+}, {
+  "fromCity": 5,
+  "toCity": 7,
+  "startTime": 17,
+  "arriveTime": 23,
+  "timeTaken": 5,
+  "price": 454.5,
+  "idNumber": "G868"
+}, {
+  "fromCity": 5,
+  "toCity": 7,
+  "startTime": 18,
+  "arriveTime": 22,
+  "timeTaken": 4,
+  "price": 454.5,
+  "idNumber": "G840"
+}, {
+  "fromCity": 5,
+  "toCity": 2,
+  "startTime": 8,
+  "arriveTime": 10,
+  "timeTaken": 2,
+  "price": 200.5,
+  "idNumber": "G1722"
+}, {
+  "fromCity": 5,
+  "toCity": 2,
+  "startTime": 8,
+  "arriveTime": 11,
+  "timeTaken": 2,
+  "price": 153.5,
+  "idNumber": "G1738"
+}, {
+  "fromCity": 5,
+  "toCity": 2,
+  "startTime": 9,
+  "arriveTime": 12,
+  "timeTaken": 3,
+  "price": 200.5,
+  "idNumber": "G1778"
+}, {
+  "fromCity": 5,
+  "toCity": 2,
+  "startTime": 10,
+  "arriveTime": 13,
+  "timeTaken": 2,
+  "price": 200.5,
+  "idNumber": "G1730"
+}, {
+  "fromCity": 5,
+  "toCity": 2,
+  "startTime": 11,
+  "arriveTime": 14,
+  "timeTaken": 3,
+  "price": 200.5,
+  "idNumber": "G1744"
+}, {
+  "fromCity": 5,
+  "toCity": 2,
+  "startTime": 13,
+  "arriveTime": 16,
+  "timeTaken": 2,
+  "price": 200.5,
+  "idNumber": "G678"
+}, {
+  "fromCity": 5,
+  "toCity": 2,
+  "startTime": 14,
+  "arriveTime": 17,
+  "timeTaken": 2,
+  "price": 200.5,
+  "idNumber": "G596"
+}, {
+  "fromCity": 5,
+  "toCity": 2,
+  "startTime": 15,
+  "arriveTime": 17,
+  "timeTaken": 2,
+  "price": 200.5,
+  "idNumber": "G600"
+}, {
+  "fromCity": 5,
+  "toCity": 2,
+  "startTime": 15,
+  "arriveTime": 18,
+  "timeTaken": 2,
+  "price": 200.5,
+  "idNumber": "G1546"
+}, {
+  "fromCity": 5,
+  "toCity": 2,
+  "startTime": 16,
+  "arriveTime": 19,
+  "timeTaken": 2,
+  "price": 200.5,
+  "idNumber": "G578"
+}, {
+  "fromCity": 5,
+  "toCity": 2,
+  "startTime": 17,
+  "arriveTime": 20,
+  "timeTaken": 2,
+  "price": 200.5,
+  "idNumber": "G580"
+}, {
+  "fromCity": 5,
+  "toCity": 2,
+  "startTime": 18,
+  "arriveTime": 21,
+  "timeTaken": 2,
+  "price": 200.5,
+  "idNumber": "G1540"
+}, {
+  "fromCity": 5,
+  "toCity": 2,
+  "startTime": 19,
+  "arriveTime": 22,
+  "timeTaken": 2,
+  "price": 200.5,
+  "idNumber": "G1128"
+}, {
+  "fromCity": 5,
+  "toCity": 6,
+  "startTime": 6,
+  "arriveTime": 16,
+  "timeTaken": 9,
+  "price": 374.0,
+  "idNumber": "D632"
+}, {
+  "fromCity": 5,
+  "toCity": 6,
+  "startTime": 7,
+  "arriveTime": 17,
+  "timeTaken": 9,
+  "price": 379.5,
+  "idNumber": "D366"
+}, {
+  "fromCity": 5,
+  "toCity": 6,
+  "startTime": 11,
+  "arriveTime": 21,
+  "timeTaken": 9,
+  "price": 379.5,
+  "idNumber": "D2236"
+}, {
+  "fromCity": 5,
+  "toCity": 6,
+  "startTime": 12,
+  "arriveTime": 22,
+  "timeTaken": 9,
+  "price": 379.5,
+  "idNumber": "D2242"
+}, {
+  "fromCity": 5,
+  "toCity": 4,
+  "startTime": 6,
+  "arriveTime": 11,
+  "timeTaken": 4,
+  "price": 463.5,
+  "idNumber": "G1103"
+}, {
+  "fromCity": 5,
+  "toCity": 4,
+  "startTime": 7,
+  "arriveTime": 11,
+  "timeTaken": 4,
+  "price": 463.5,
+  "idNumber": "G1001"
+}, {
+  "fromCity": 5,
+  "toCity": 4,
+  "startTime": 7,
+  "arriveTime": 12,
+  "timeTaken": 4,
+  "price": 463.5,
+  "idNumber": "G1003"
+}, {
+  "fromCity": 5,
+  "toCity": 4,
+  "startTime": 8,
+  "arriveTime": 12,
+  "timeTaken": 4,
+  "price": 463.5,
+  "idNumber": "G1005"
+}, {
+  "fromCity": 5,
+  "toCity": 4,
+  "startTime": 9,
+  "arriveTime": 12,
+  "timeTaken": 3,
+  "price": 463.5,
+  "idNumber": "G77"
+}, {
+  "fromCity": 5,
+  "toCity": 4,
+  "startTime": 9,
+  "arriveTime": 13,
+  "timeTaken": 4,
+  "price": 463.5,
+  "idNumber": "G1109"
+}, {
+  "fromCity": 5,
+  "toCity": 4,
+  "startTime": 9,
+  "arriveTime": 14,
+  "timeTaken": 4,
+  "price": 463.5,
+  "idNumber": "G1009"
+}, {
+  "fromCity": 5,
+  "toCity": 4,
+  "startTime": 10,
+  "arriveTime": 15,
+  "timeTaken": 4,
+  "price": 463.5,
+  "idNumber": "G1035"
+}, {
+  "fromCity": 5,
+  "toCity": 4,
+  "startTime": 10,
+  "arriveTime": 14,
+  "timeTaken": 4,
+  "price": 463.5,
+  "idNumber": "G1113"
+}, {
+  "fromCity": 5,
+  "toCity": 4,
+  "startTime": 11,
+  "arriveTime": 15,
+  "timeTaken": 4,
+  "price": 463.5,
+  "idNumber": "G1161"
+}, {
+  "fromCity": 5,
+  "toCity": 4,
+  "startTime": 11,
+  "arriveTime": 16,
+  "timeTaken": 4,
+  "price": 463.5,
+  "idNumber": "G1031"
+}, {
+  "fromCity": 5,
+  "toCity": 4,
+  "startTime": 12,
+  "arriveTime": 16,
+  "timeTaken": 4,
+  "price": 463.5,
+  "idNumber": "G1165"
+}, {
+  "fromCity": 5,
+  "toCity": 4,
+  "startTime": 13,
+  "arriveTime": 17,
+  "timeTaken": 4,
+  "price": 463.5,
+  "idNumber": "G73"
+}, {
+  "fromCity": 5,
+  "toCity": 4,
+  "startTime": 13,
+  "arriveTime": 18,
+  "timeTaken": 4,
+  "price": 463.5,
+  "idNumber": "G1015"
+}, {
+  "fromCity": 5,
+  "toCity": 4,
+  "startTime": 14,
+  "arriveTime": 18,
+  "timeTaken": 4,
+  "price": 463.5,
+  "idNumber": "G279"
+}, {
+  "fromCity": 5,
+  "toCity": 4,
+  "startTime": 15,
+  "arriveTime": 19,
+  "timeTaken": 4,
+  "price": 463.5,
+  "idNumber": "G275"
+}, {
+  "fromCity": 5,
+  "toCity": 4,
+  "startTime": 15,
+  "arriveTime": 20,
+  "timeTaken": 4,
+  "price": 463.5,
+  "idNumber": "G1019"
+}, {
+  "fromCity": 5,
+  "toCity": 4,
+  "startTime": 16,
+  "arriveTime": 20,
+  "timeTaken": 4,
+  "price": 463.5,
+  "idNumber": "G831"
+}, {
+  "fromCity": 5,
+  "toCity": 4,
+  "startTime": 16,
+  "arriveTime": 21,
+  "timeTaken": 4,
+  "price": 463.5,
+  "idNumber": "G75"
+}, {
+  "fromCity": 5,
+  "toCity": 4,
+  "startTime": 17,
+  "arriveTime": 21,
+  "timeTaken": 4,
+  "price": 463.5,
+  "idNumber": "G835"
+}, {
+  "fromCity": 5,
+  "toCity": 4,
+  "startTime": 17,
+  "arriveTime": 22,
+  "timeTaken": 4,
+  "price": 463.5,
+  "idNumber": "G1133"
+}, {
+  "fromCity": 5,
+  "toCity": 4,
+  "startTime": 18,
+  "arriveTime": 22,
+  "timeTaken": 4,
+  "price": 463.5,
+  "idNumber": "G67"
+}, {
+  "fromCity": 5,
+  "toCity": 4,
+  "startTime": 18,
+  "arriveTime": 23,
+  "timeTaken": 4,
+  "price": 463.5,
+  "idNumber": "G1743"
+}, {
+  "fromCity": 5,
+  "toCity": 4,
+  "startTime": 19,
+  "arriveTime": 23,
+  "timeTaken": 4,
+  "price": 463.5,
+  "idNumber": "G295"
+}, {
+  "fromCity": 6,
+  "toCity": 10,
+  "startTime": 20,
+  "arriveTime": 7,
+  "timeTaken": 35,
+  "price": 491.5,
+  "idNumber": "K2058"
+}, {
+  "fromCity": 6,
+  "toCity": 7,
+  "startTime": 7,
+  "arriveTime": 10,
+  "timeTaken": 3,
+  "price": 263.0,
+  "idNumber": "G350"
+}, {
+  "fromCity": 6,
+  "toCity": 7,
+  "startTime": 7,
+  "arriveTime": 11,
+  "timeTaken": 4,
+  "price": 263.0,
+  "idNumber": "D1912"
+}, {
+  "fromCity": 6,
+  "toCity": 7,
+  "startTime": 7,
+  "arriveTime": 23,
+  "timeTaken": 16,
+  "price": 194.0,
+  "idNumber": "K546"
+}, {
+  "fromCity": 6,
+  "toCity": 7,
+  "startTime": 7,
+  "arriveTime": 12,
+  "timeTaken": 4,
+  "price": 263.0,
+  "idNumber": "D1914"
+}, {
+  "fromCity": 6,
+  "toCity": 7,
+  "startTime": 8,
+  "arriveTime": 12,
+  "timeTaken": 3,
+  "price": 263.0,
+  "idNumber": "G2204"
+}, {
+  "fromCity": 6,
+  "toCity": 7,
+  "startTime": 8,
+  "arriveTime": 22,
+  "timeTaken": 13,
+  "price": 194.0,
+  "idNumber": "T8"
+}, {
+  "fromCity": 6,
+  "toCity": 7,
+  "startTime": 9,
+  "arriveTime": 12,
+  "timeTaken": 3,
+  "price": 263.0,
+  "idNumber": "D1918"
+}, {
+  "fromCity": 6,
+  "toCity": 7,
+  "startTime": 9,
+  "arriveTime": 13,
+  "timeTaken": 4,
+  "price": 263.0,
+  "idNumber": "D1920"
+}, {
+  "fromCity": 6,
+  "toCity": 7,
+  "startTime": 10,
+  "arriveTime": 14,
+  "timeTaken": 4,
+  "price": 263.0,
+  "idNumber": "D1922"
+}, {
+  "fromCity": 6,
+  "toCity": 7,
+  "startTime": 11,
+  "arriveTime": 15,
+  "timeTaken": 4,
+  "price": 263.0,
+  "idNumber": "G1888"
+}, {
+  "fromCity": 6,
+  "toCity": 7,
+  "startTime": 11,
+  "arriveTime": 16,
+  "timeTaken": 4,
+  "price": 263.0,
+  "idNumber": "G1832"
+}, {
+  "fromCity": 6,
+  "toCity": 7,
+  "startTime": 12,
+  "arriveTime": 16,
+  "timeTaken": 4,
+  "price": 263.0,
+  "idNumber": "D1926"
+}, {
+  "fromCity": 6,
+  "toCity": 7,
+  "startTime": 13,
+  "arriveTime": 17,
+  "timeTaken": 4,
+  "price": 263.0,
+  "idNumber": "D1930"
+}, {
+  "fromCity": 6,
+  "toCity": 7,
+  "startTime": 14,
+  "arriveTime": 17,
+  "timeTaken": 3,
+  "price": 263.0,
+  "idNumber": "D1934"
+}, {
+  "fromCity": 6,
+  "toCity": 7,
+  "startTime": 14,
+  "arriveTime": 18,
+  "timeTaken": 4,
+  "price": 263.0,
+  "idNumber": "D1936"
+}, {
+  "fromCity": 6,
+  "toCity": 7,
+  "startTime": 15,
+  "arriveTime": 18,
+  "timeTaken": 3,
+  "price": 263.0,
+  "idNumber": "G90"
+}, {
+  "fromCity": 6,
+  "toCity": 7,
+  "startTime": 15,
+  "arriveTime": 19,
+  "timeTaken": 4,
+  "price": 263.0,
+  "idNumber": "D1938"
+}, {
+  "fromCity": 6,
+  "toCity": 7,
+  "startTime": 16,
+  "arriveTime": 19,
+  "timeTaken": 3,
+  "price": 263.0,
+  "idNumber": "G2214"
+}, {
+  "fromCity": 6,
+  "toCity": 7,
+  "startTime": 16,
+  "arriveTime": 20,
+  "timeTaken": 4,
+  "price": 263.0,
+  "idNumber": "D1942"
+}, {
+  "fromCity": 6,
+  "toCity": 7,
+  "startTime": 17,
+  "arriveTime": 20,
+  "timeTaken": 3,
+  "price": 263.0,
+  "idNumber": "D1944"
+}, {
+  "fromCity": 6,
+  "toCity": 7,
+  "startTime": 17,
+  "arriveTime": 21,
+  "timeTaken": 3,
+  "price": 263.0,
+  "idNumber": "D1946"
+}, {
+  "fromCity": 6,
+  "toCity": 7,
+  "startTime": 18,
+  "arriveTime": 22,
+  "timeTaken": 4,
+  "price": 263.0,
+  "idNumber": "D1950"
+}, {
+  "fromCity": 6,
+  "toCity": 7,
+  "startTime": 18,
+  "arriveTime": 23,
+  "timeTaken": 4,
+  "price": 263.0,
+  "idNumber": "D1952"
+}, {
+  "fromCity": 6,
+  "toCity": 7,
+  "startTime": 19,
+  "arriveTime": 12,
+  "timeTaken": 16,
+  "price": 215.0,
+  "idNumber": "K1364"
+}, {
+  "fromCity": 6,
+  "toCity": 7,
+  "startTime": 21,
+  "arriveTime": 12,
+  "timeTaken": 15,
+  "price": 194.0,
+  "idNumber": "K246"
+}, {
+  "fromCity": 6,
+  "toCity": 7,
+  "startTime": 21,
+  "arriveTime": 8,
+  "timeTaken": 11,
+  "price": 230.0,
+  "idNumber": "K292"
+}, {
+  "fromCity": 6,
+  "toCity": 7,
+  "startTime": 22,
+  "arriveTime": 8,
+  "timeTaken": 9,
+  "price": 230.0,
+  "idNumber": "K998"
+}, {
+  "fromCity": 6,
+  "toCity": 5,
+  "startTime": 6,
+  "arriveTime": 16,
+  "timeTaken": 9,
+  "price": 379.5,
+  "idNumber": "D2244"
+}, {
+  "fromCity": 6,
+  "toCity": 5,
+  "startTime": 9,
+  "arriveTime": 18,
+  "timeTaken": 9,
+  "price": 379.5,
+  "idNumber": "D2238"
+}, {
+  "fromCity": 6,
+  "toCity": 5,
+  "startTime": 10,
+  "arriveTime": 20,
+  "timeTaken": 9,
+  "price": 379.5,
+  "idNumber": "D368"
+}, {
+  "fromCity": 6,
+  "toCity": 5,
+  "startTime": 13,
+  "arriveTime": 23,
+  "timeTaken": 9,
+  "price": 362.0,
+  "idNumber": "D634"
+}, {
+  "fromCity": 6,
+  "toCity": 4,
+  "startTime": 6,
+  "arriveTime": 15,
+  "timeTaken": 9,
+  "price": 566.0,
+  "idNumber": "D1841"
+}, {
+  "fromCity": 6,
+  "toCity": 4,
+  "startTime": 7,
+  "arriveTime": 17,
+  "timeTaken": 10,
+  "price": 549.0,
+  "idNumber": "D1854"
+}, {
+  "fromCity": 6,
+  "toCity": 4,
+  "startTime": 7,
+  "arriveTime": 16,
+  "timeTaken": 8,
+  "price": 566.0,
+  "idNumber": "D1801"
+}, {
+  "fromCity": 6,
+  "toCity": 4,
+  "startTime": 9,
+  "arriveTime": 12,
+  "timeTaken": 27,
+  "price": 381.0,
+  "idNumber": "K194"
+}, {
+  "fromCity": 6,
+  "toCity": 4,
+  "startTime": 9,
+  "arriveTime": 19,
+  "timeTaken": 9,
+  "price": 549.0,
+  "idNumber": "D1858"
+}, {
+  "fromCity": 6,
+  "toCity": 4,
+  "startTime": 10,
+  "arriveTime": 19,
+  "timeTaken": 9,
+  "price": 541.0,
+  "idNumber": "D1820"
+}, {
+  "fromCity": 6,
+  "toCity": 4,
+  "startTime": 10,
+  "arriveTime": 20,
+  "timeTaken": 10,
+  "price": 541.0,
+  "idNumber": "D1824"
+}, {
+  "fromCity": 6,
+  "toCity": 4,
+  "startTime": 12,
+  "arriveTime": 17,
+  "timeTaken": 28,
+  "price": 414.0,
+  "idNumber": "K488"
+}, {
+  "fromCity": 6,
+  "toCity": 4,
+  "startTime": 12,
+  "arriveTime": 22,
+  "timeTaken": 9,
+  "price": 566.0,
+  "idNumber": "D1825"
+}, {
+  "fromCity": 6,
+  "toCity": 4,
+  "startTime": 13,
+  "arriveTime": 23,
+  "timeTaken": 9,
+  "price": 574.0,
+  "idNumber": "D1851"
+}, {
+  "fromCity": 6,
+  "toCity": 4,
+  "startTime": 14,
+  "arriveTime": 23,
+  "timeTaken": 9,
+  "price": 566.0,
+  "idNumber": "D1833"
+}, {
+  "fromCity": 6,
+  "toCity": 4,
+  "startTime": 17,
+  "arriveTime": 18,
+  "timeTaken": 25,
+  "price": 480.5,
+  "idNumber": "Z124"
+}, {
+  "fromCity": 6,
+  "toCity": 4,
+  "startTime": 9,
+  "arriveTime": 11,
+  "timeTaken": 2,
+  "price": 690,
+  "idNumber": "MU2457"
+}, {
+  "fromCity": 6,
+  "toCity": 4,
+  "startTime": 10,
+  "arriveTime": 11,
+  "timeTaken": 1,
+  "price": 690,
+  "idNumber": "MU2654"
+}, {
+  "fromCity": 6,
+  "toCity": 4,
+  "startTime": 22,
+  "arriveTime": 0,
+  "timeTaken": 2,
+  "price": 810,
+  "idNumber": "MU2658"
+}, {
+  "fromCity": 6,
+  "toCity": 4,
+  "startTime": 10,
+  "arriveTime": 12,
+  "timeTaken": 2,
+  "price": 839,
+  "idNumber": "EU2713"
+}, {
+  "fromCity": 6,
+  "toCity": 4,
+  "startTime": 11,
+  "arriveTime": 13,
+  "timeTaken": 2,
+  "price": 1000,
+  "idNumber": "CZ3448"
+}, {
+  "fromCity": 6,
+  "toCity": 4,
+  "startTime": 17,
+  "arriveTime": 19,
+  "timeTaken": 2,
+  "price": 1080,
+  "idNumber": "MU2652"
+}, {
+  "fromCity": 6,
+  "toCity": 4,
+  "startTime": 19,
+  "arriveTime": 21,
+  "timeTaken": 2,
+  "price": 1130,
+  "idNumber": "CA4587"
+}, {
+  "fromCity": 6,
+  "toCity": 4,
+  "startTime": 14,
+  "arriveTime": 15,
+  "timeTaken": 1,
+  "price": 1230,
+  "idNumber": "3U8985"
+}, {
+  "fromCity": 6,
+  "toCity": 4,
+  "startTime": 7,
+  "arriveTime": 9,
+  "timeTaken": 2,
+  "price": 612,
+  "idNumber": "EU2235"
+}, {
+  "fromCity": 6,
+  "toCity": 4,
+  "startTime": 21,
+  "arriveTime": 0,
+  "timeTaken": 3,
+  "price": 637,
+  "idNumber": "CZ3484"
+}, {
+  "fromCity": 6,
+  "toCity": 4,
+  "startTime": 22,
+  "arriveTime": 1,
+  "timeTaken": 3,
+  "price": 637,
+  "idNumber": "CZ3428"
+}, {
+  "fromCity": 6,
+  "toCity": 4,
+  "startTime": 7,
+  "arriveTime": 10,
+  "timeTaken": 3,
+  "price": 647,
+  "idNumber": "CA4305"
+}, {
+  "fromCity": 6,
+  "toCity": 4,
+  "startTime": 20,
+  "arriveTime": 23,
+  "timeTaken": 3,
+  "price": 677,
+  "idNumber": "JD5162"
+}, {
+  "fromCity": 6,
+  "toCity": 4,
+  "startTime": 12,
+  "arriveTime": 15,
+  "timeTaken": 3,
+  "price": 707,
+  "idNumber": "3U8743"
+}, {
+  "fromCity": 6,
+  "toCity": 4,
+  "startTime": 13,
+  "arriveTime": 15,
+  "timeTaken": 2,
+  "price": 707,
+  "idNumber": "3U8733"
+}, {
+  "fromCity": 6,
+  "toCity": 4,
+  "startTime": 15,
+  "arriveTime": 17,
+  "timeTaken": 2,
+  "price": 707,
+  "idNumber": "3U8645"
+}, {
+  "fromCity": 6,
+  "toCity": 4,
+  "startTime": 18,
+  "arriveTime": 21,
+  "timeTaken": 3,
+  "price": 707,
+  "idNumber": "3U8735"
+}, {
+  "fromCity": 6,
+  "toCity": 4,
+  "startTime": 10,
+  "arriveTime": 13,
+  "timeTaken": 3,
+  "price": 757,
+  "idNumber": "CZ3404"
+}, {
+  "fromCity": 6,
+  "toCity": 4,
+  "startTime": 16,
+  "arriveTime": 18,
+  "timeTaken": 2,
+  "price": 757,
+  "idNumber": "CZ3444"
+}, {
+  "fromCity": 6,
+  "toCity": 4,
+  "startTime": 8,
+  "arriveTime": 10,
+  "timeTaken": 2,
+  "price": 787,
+  "idNumber": "ZH9444"
+}, {
+  "fromCity": 6,
+  "toCity": 4,
+  "startTime": 12,
+  "arriveTime": 14,
+  "timeTaken": 2,
+  "price": 827,
+  "idNumber": "CA4317"
+}, {
+  "fromCity": 6,
+  "toCity": 4,
+  "startTime": 11,
+  "arriveTime": 14,
+  "timeTaken": 3,
+  "price": 837,
+  "idNumber": "CZ3402"
+}, {
+  "fromCity": 6,
+  "toCity": 4,
+  "startTime": 13,
+  "arriveTime": 16,
+  "timeTaken": 3,
+  "price": 837,
+  "idNumber": "CZ8648"
+}, {
+  "fromCity": 6,
+  "toCity": 4,
+  "startTime": 19,
+  "arriveTime": 22,
+  "timeTaken": 3,
+  "price": 852,
+  "idNumber": "HU7352"
+}, {
+  "fromCity": 6,
+  "toCity": 10,
+  "startTime": 19,
+  "arriveTime": 23,
+  "timeTaken": 4,
+  "price": 980,
+  "idNumber": "CZ6882"
+}, {
+  "fromCity": 6,
+  "toCity": 10,
+  "startTime": 6,
+  "arriveTime": 10,
+  "timeTaken": 4,
+  "price": 1020,
+  "idNumber": "CA4151"
+}, {
+  "fromCity": 6,
+  "toCity": 10,
+  "startTime": 18,
+  "arriveTime": 22,
+  "timeTaken": 4,
+  "price": 1020,
+  "idNumber": "CA4191"
+}, {
+  "fromCity": 6,
+  "toCity": 10,
+  "startTime": 8,
+  "arriveTime": 11,
+  "timeTaken": 3,
+  "price": 1110,
+  "idNumber": "3U8525"
+}, {
+  "fromCity": 6,
+  "toCity": 10,
+  "startTime": 16,
+  "arriveTime": 21,
+  "timeTaken": 5,
+  "price": 1110,
+  "idNumber": "3U8062"
+}, {
+  "fromCity": 6,
+  "toCity": 10,
+  "startTime": 16,
+  "arriveTime": 19,
+  "timeTaken": 3,
+  "price": 1110,
+  "idNumber": "CA4153"
+}, {
+  "fromCity": 6,
+  "toCity": 10,
+  "startTime": 18,
+  "arriveTime": 21,
+  "timeTaken": 3,
+  "price": 1110,
+  "idNumber": "3U8841"
+}, {
+  "fromCity": 6,
+  "toCity": 10,
+  "startTime": 12,
+  "arriveTime": 16,
+  "timeTaken": 4,
+  "price": 1170,
+  "idNumber": "CZ6942"
+}, {
+  "fromCity": 6,
+  "toCity": 10,
+  "startTime": 15,
+  "arriveTime": 19,
+  "timeTaken": 4,
+  "price": 1170,
+  "idNumber": "CZ6926"
+}, {
+  "fromCity": 6,
+  "toCity": 7,
+  "startTime": 6,
+  "arriveTime": 7,
+  "timeTaken": 1,
+  "price": 311,
+  "idNumber": "3U8379"
+}, {
+  "fromCity": 6,
+  "toCity": 7,
+  "startTime": 13,
+  "arriveTime": 14,
+  "timeTaken": 1,
+  "price": 610,
+  "idNumber": "3U8769"
+}, {
+  "fromCity": 6,
+  "toCity": 7,
+  "startTime": 21,
+  "arriveTime": 23,
+  "timeTaken": 2,
+  "price": 753,
+  "idNumber": "TV9905"
+}, {
+  "fromCity": 7,
+  "toCity": 0,
+  "startTime": 1,
+  "arriveTime": 14,
+  "timeTaken": 12,
+  "price": 254.5,
+  "idNumber": "Z152"
+}, {
+  "fromCity": 7,
+  "toCity": 0,
+  "startTime": 7,
+  "arriveTime": 13,
+  "timeTaken": 5,
+  "price": 515.5,
+  "idNumber": "G652"
+}, {
+  "fromCity": 7,
+  "toCity": 0,
+  "startTime": 9,
+  "arriveTime": 15,
+  "timeTaken": 6,
+  "price": 515.5,
+  "idNumber": "G672"
+}, {
+  "fromCity": 7,
+  "toCity": 0,
+  "startTime": 9,
+  "arriveTime": 13,
+  "timeTaken": 4,
+  "price": 515.5,
+  "idNumber": "G26"
+}, {
+  "fromCity": 7,
+  "toCity": 0,
+  "startTime": 10,
+  "arriveTime": 15,
+  "timeTaken": 5,
+  "price": 515.5,
+  "idNumber": "G656"
+}, {
+  "fromCity": 7,
+  "toCity": 0,
+  "startTime": 10,
+  "arriveTime": 14,
+  "timeTaken": 4,
+  "price": 515.5,
+  "idNumber": "G350"
+}, {
+  "fromCity": 7,
+  "toCity": 0,
+  "startTime": 11,
+  "arriveTime": 16,
+  "timeTaken": 5,
+  "price": 515.5,
+  "idNumber": "G660"
+}, {
+  "fromCity": 7,
+  "toCity": 0,
+  "startTime": 12,
+  "arriveTime": 18,
+  "timeTaken": 5,
+  "price": 515.5,
+  "idNumber": "G658"
+}, {
+  "fromCity": 7,
+  "toCity": 0,
+  "startTime": 13,
+  "arriveTime": 5,
+  "timeTaken": 16,
+  "price": 261.5,
+  "idNumber": "K1364"
+}, {
+  "fromCity": 7,
+  "toCity": 0,
+  "startTime": 13,
+  "arriveTime": 18,
+  "timeTaken": 5,
+  "price": 515.5,
+  "idNumber": "G430"
+}, {
+  "fromCity": 7,
+  "toCity": 0,
+  "startTime": 13,
+  "arriveTime": 17,
+  "timeTaken": 4,
+  "price": 515.5,
+  "idNumber": "G88"
+}, {
+  "fromCity": 7,
+  "toCity": 0,
+  "startTime": 14,
+  "arriveTime": 19,
+  "timeTaken": 5,
+  "price": 515.5,
+  "idNumber": "G574"
+}, {
+  "fromCity": 7,
+  "toCity": 0,
+  "startTime": 14,
+  "arriveTime": 20,
+  "timeTaken": 5,
+  "price": 515.5,
+  "idNumber": "G664"
+}, {
+  "fromCity": 7,
+  "toCity": 0,
+  "startTime": 16,
+  "arriveTime": 21,
+  "timeTaken": 5,
+  "price": 515.5,
+  "idNumber": "G666"
+}, {
+  "fromCity": 7,
+  "toCity": 0,
+  "startTime": 17,
+  "arriveTime": 21,
+  "timeTaken": 4,
+  "price": 515.5,
+  "idNumber": "G428"
+}, {
+  "fromCity": 7,
+  "toCity": 0,
+  "startTime": 17,
+  "arriveTime": 23,
+  "timeTaken": 5,
+  "price": 515.5,
+  "idNumber": "G674"
+}, {
+  "fromCity": 7,
+  "toCity": 0,
+  "startTime": 17,
+  "arriveTime": 22,
+  "timeTaken": 5,
+  "price": 515.5,
+  "idNumber": "G668"
+}, {
+  "fromCity": 7,
+  "toCity": 0,
+  "startTime": 17,
+  "arriveTime": 6,
+  "timeTaken": 12,
+  "price": 254.5,
+  "idNumber": "T232"
+}, {
+  "fromCity": 7,
+  "toCity": 0,
+  "startTime": 18,
+  "arriveTime": 22,
+  "timeTaken": 4,
+  "price": 515.5,
+  "idNumber": "G90"
+}, {
+  "fromCity": 7,
+  "toCity": 0,
+  "startTime": 19,
+  "arriveTime": 6,
+  "timeTaken": 11,
+  "price": 254.5,
+  "idNumber": "Z20"
+}, {
+  "fromCity": 7,
+  "toCity": 0,
+  "startTime": 19,
+  "arriveTime": 8,
+  "timeTaken": 12,
+  "price": 268.5,
+  "idNumber": "Z44"
+}, {
+  "fromCity": 7,
+  "toCity": 0,
+  "startTime": 19,
+  "arriveTime": 9,
+  "timeTaken": 13,
+  "price": 268.5,
+  "idNumber": "T42"
+}, {
+  "fromCity": 7,
+  "toCity": 0,
+  "startTime": 21,
+  "arriveTime": 10,
+  "timeTaken": 13,
+  "price": 254.5,
+  "idNumber": "T56"
+}, {
+  "fromCity": 7,
+  "toCity": 0,
+  "startTime": 22,
+  "arriveTime": 12,
+  "timeTaken": 13,
+  "price": 268.5,
+  "idNumber": "T8"
+}, {
+  "fromCity": 7,
+  "toCity": 9,
+  "startTime": 8,
+  "arriveTime": 23,
+  "timeTaken": 14,
+  "price": 238.5,
+  "idNumber": "K998"
+}, {
+  "fromCity": 7,
+  "toCity": 9,
+  "startTime": 18,
+  "arriveTime": 7,
+  "timeTaken": 13,
+  "price": 238.5,
+  "idNumber": "K1674"
+}, {
+  "fromCity": 7,
+  "toCity": 5,
+  "startTime": 7,
+  "arriveTime": 11,
+  "timeTaken": 4,
+  "price": 454.5,
+  "idNumber": "G870"
+}, {
+  "fromCity": 7,
+  "toCity": 5,
+  "startTime": 7,
+  "arriveTime": 12,
+  "timeTaken": 5,
+  "price": 454.5,
+  "idNumber": "G2390"
+}, {
+  "fromCity": 7,
+  "toCity": 5,
+  "startTime": 9,
+  "arriveTime": 14,
+  "timeTaken": 4,
+  "price": 454.5,
+  "idNumber": "G820"
+}, {
+  "fromCity": 7,
+  "toCity": 5,
+  "startTime": 9,
+  "arriveTime": 13,
+  "timeTaken": 3,
+  "price": 454.5,
+  "idNumber": "G98"
+}, {
+  "fromCity": 7,
+  "toCity": 5,
+  "startTime": 10,
+  "arriveTime": 15,
+  "timeTaken": 4,
+  "price": 454.5,
+  "idNumber": "G862"
+}, {
+  "fromCity": 7,
+  "toCity": 5,
+  "startTime": 11,
+  "arriveTime": 15,
+  "timeTaken": 4,
+  "price": 454.5,
+  "idNumber": "G824"
+}, {
+  "fromCity": 7,
+  "toCity": 5,
+  "startTime": 11,
+  "arriveTime": 16,
+  "timeTaken": 4,
+  "price": 454.5,
+  "idNumber": "G834"
+}, {
+  "fromCity": 7,
+  "toCity": 5,
+  "startTime": 12,
+  "arriveTime": 16,
+  "timeTaken": 4,
+  "price": 454.5,
+  "idNumber": "G838"
+}, {
+  "fromCity": 7,
+  "toCity": 5,
+  "startTime": 12,
+  "arriveTime": 17,
+  "timeTaken": 4,
+  "price": 454.5,
+  "idNumber": "G828"
+}, {
+  "fromCity": 7,
+  "toCity": 5,
+  "startTime": 13,
+  "arriveTime": 17,
+  "timeTaken": 4,
+  "price": 454.5,
+  "idNumber": "G842"
+}, {
+  "fromCity": 7,
+  "toCity": 5,
+  "startTime": 13,
+  "arriveTime": 18,
+  "timeTaken": 4,
+  "price": 454.5,
+  "idNumber": "G846"
+}, {
+  "fromCity": 7,
+  "toCity": 5,
+  "startTime": 14,
+  "arriveTime": 19,
+  "timeTaken": 5,
+  "price": 454.5,
+  "idNumber": "G854"
+}, {
+  "fromCity": 7,
+  "toCity": 5,
+  "startTime": 15,
+  "arriveTime": 19,
+  "timeTaken": 4,
+  "price": 454.5,
+  "idNumber": "G858"
+}, {
+  "fromCity": 7,
+  "toCity": 6,
+  "startTime": 6,
+  "arriveTime": 22,
+  "timeTaken": 16,
+  "price": 194.0,
+  "idNumber": "K545"
+}, {
+  "fromCity": 7,
+  "toCity": 6,
+  "startTime": 6,
+  "arriveTime": 20,
+  "timeTaken": 13,
+  "price": 194.0,
+  "idNumber": "T7"
+}, {
+  "fromCity": 7,
+  "toCity": 6,
+  "startTime": 7,
+  "arriveTime": 11,
+  "timeTaken": 4,
+  "price": 263.0,
+  "idNumber": "D1911"
+}, {
+  "fromCity": 7,
+  "toCity": 6,
+  "startTime": 8,
+  "arriveTime": 11,
+  "timeTaken": 3,
+  "price": 263.0,
+  "idNumber": "G2855"
+}, {
+  "fromCity": 7,
+  "toCity": 6,
+  "startTime": 8,
+  "arriveTime": 12,
+  "timeTaken": 4,
+  "price": 263.0,
+  "idNumber": "D1915"
+}, {
+  "fromCity": 7,
+  "toCity": 6,
+  "startTime": 9,
+  "arriveTime": 12,
+  "timeTaken": 3,
+  "price": 263.0,
+  "idNumber": "D1917"
+}, {
+  "fromCity": 7,
+  "toCity": 6,
+  "startTime": 9,
+  "arriveTime": 13,
+  "timeTaken": 4,
+  "price": 263.0,
+  "idNumber": "D1919"
+}, {
+  "fromCity": 7,
+  "toCity": 6,
+  "startTime": 10,
+  "arriveTime": 14,
+  "timeTaken": 4,
+  "price": 263.0,
+  "idNumber": "D1923"
+}, {
+  "fromCity": 7,
+  "toCity": 6,
+  "startTime": 11,
+  "arriveTime": 14,
+  "timeTaken": 3,
+  "price": 263.0,
+  "idNumber": "G89"
+}, {
+  "fromCity": 7,
+  "toCity": 6,
+  "startTime": 11,
+  "arriveTime": 15,
+  "timeTaken": 3,
+  "price": 263.0,
+  "idNumber": "D1927"
+}, {
+  "fromCity": 7,
+  "toCity": 6,
+  "startTime": 12,
+  "arriveTime": 16,
+  "timeTaken": 4,
+  "price": 263.0,
+  "idNumber": "D1931"
+}, {
+  "fromCity": 7,
+  "toCity": 6,
+  "startTime": 12,
+  "arriveTime": 17,
+  "timeTaken": 4,
+  "price": 263.0,
+  "idNumber": "D1933"
+}, {
+  "fromCity": 7,
+  "toCity": 6,
+  "startTime": 13,
+  "arriveTime": 7,
+  "timeTaken": 18,
+  "price": 215.0,
+  "idNumber": "K1363"
+}, {
+  "fromCity": 7,
+  "toCity": 6,
+  "startTime": 13,
+  "arriveTime": 17,
+  "timeTaken": 4,
+  "price": 263.0,
+  "idNumber": "D1935"
+}, {
+  "fromCity": 7,
+  "toCity": 6,
+  "startTime": 14,
+  "arriveTime": 17,
+  "timeTaken": 3,
+  "price": 263.0,
+  "idNumber": "D1937"
+}, {
+  "fromCity": 7,
+  "toCity": 6,
+  "startTime": 14,
+  "arriveTime": 18,
+  "timeTaken": 3,
+  "price": 263.0,
+  "idNumber": "G1709"
+}, {
+  "fromCity": 7,
+  "toCity": 6,
+  "startTime": 15,
+  "arriveTime": 19,
+  "timeTaken": 3,
+  "price": 263.0,
+  "idNumber": "G571"
+}, {
+  "fromCity": 7,
+  "toCity": 6,
+  "startTime": 15,
+  "arriveTime": 18,
+  "timeTaken": 3,
+  "price": 263.0,
+  "idNumber": "D1941"
+}, {
+  "fromCity": 7,
+  "toCity": 6,
+  "startTime": 16,
+  "arriveTime": 20,
+  "timeTaken": 4,
+  "price": 263.0,
+  "idNumber": "D1943"
+}, {
+  "fromCity": 7,
+  "toCity": 6,
+  "startTime": 17,
+  "arriveTime": 20,
+  "timeTaken": 3,
+  "price": 263.0,
+  "idNumber": "G1835"
+}, {
+  "fromCity": 7,
+  "toCity": 6,
+  "startTime": 17,
+  "arriveTime": 21,
+  "timeTaken": 4,
+  "price": 263.0,
+  "idNumber": "G2231"
+}, {
+  "fromCity": 7,
+  "toCity": 6,
+  "startTime": 18,
+  "arriveTime": 21,
+  "timeTaken": 3,
+  "price": 263.0,
+  "idNumber": "D1947"
+}, {
+  "fromCity": 7,
+  "toCity": 6,
+  "startTime": 18,
+  "arriveTime": 22,
+  "timeTaken": 3,
+  "price": 263.0,
+  "idNumber": "D1949"
+}, {
+  "fromCity": 7,
+  "toCity": 6,
+  "startTime": 19,
+  "arriveTime": 23,
+  "timeTaken": 3,
+  "price": 263.0,
+  "idNumber": "G2211"
+}, {
+  "fromCity": 7,
+  "toCity": 6,
+  "startTime": 19,
+  "arriveTime": 22,
+  "timeTaken": 3,
+  "price": 263.0,
+  "idNumber": "G349"
+}, {
+  "fromCity": 7,
+  "toCity": 0,
+  "startTime": 23,
+  "arriveTime": 0,
+  "timeTaken": 1,
+  "price": 502,
+  "idNumber": "HU7738"
+}, {
+  "fromCity": 7,
+  "toCity": 0,
+  "startTime": 22,
+  "arriveTime": 0,
+  "timeTaken": 2,
+  "price": 507,
+  "idNumber": "MU2119"
+}, {
+  "fromCity": 7,
+  "toCity": 0,
+  "startTime": 9,
+  "arriveTime": 10,
+  "timeTaken": 1,
+  "price": 537,
+  "idNumber": "MU2103"
+}, {
+  "fromCity": 7,
+  "toCity": 0,
+  "startTime": 6,
+  "arriveTime": 7,
+  "timeTaken": 1,
+  "price": 547,
+  "idNumber": "MU5715"
+}, {
+  "fromCity": 7,
+  "toCity": 0,
+  "startTime": 8,
+  "arriveTime": 9,
+  "timeTaken": 1,
+  "price": 547,
+  "idNumber": "MU2101"
+}, {
+  "fromCity": 7,
+  "toCity": 0,
+  "startTime": 11,
+  "arriveTime": 13,
+  "timeTaken": 2,
+  "price": 597,
+  "idNumber": "MU2105"
+}, {
+  "fromCity": 7,
+  "toCity": 0,
+  "startTime": 12,
+  "arriveTime": 14,
+  "timeTaken": 2,
+  "price": 597,
+  "idNumber": "MU2107"
+}, {
+  "fromCity": 7,
+  "toCity": 0,
+  "startTime": 21,
+  "arriveTime": 23,
+  "timeTaken": 2,
+  "price": 657,
+  "idNumber": "MU2117"
+}, {
+  "fromCity": 7,
+  "toCity": 0,
+  "startTime": 10,
+  "arriveTime": 12,
+  "timeTaken": 2,
+  "price": 672,
+  "idNumber": "HU7138"
+}, {
+  "fromCity": 7,
+  "toCity": 0,
+  "startTime": 8,
+  "arriveTime": 10,
+  "timeTaken": 2,
+  "price": 907,
+  "idNumber": "CA1206"
+}, {
+  "fromCity": 7,
+  "toCity": 0,
+  "startTime": 11,
+  "arriveTime": 12,
+  "timeTaken": 1,
+  "price": 1367,
+  "idNumber": "CA1232"
+}, {
+  "fromCity": 7,
+  "toCity": 0,
+  "startTime": 14,
+  "arriveTime": 15,
+  "timeTaken": 1,
+  "price": 1367,
+  "idNumber": "MU2109"
+}, {
+  "fromCity": 7,
+  "toCity": 0,
+  "startTime": 17,
+  "arriveTime": 19,
+  "timeTaken": 2,
+  "price": 1367,
+  "idNumber": "MU2113"
+}, {
+  "fromCity": 7,
+  "toCity": 0,
+  "startTime": 18,
+  "arriveTime": 20,
+  "timeTaken": 2,
+  "price": 1367,
+  "idNumber": "MU2115"
+}, {
+  "fromCity": 7,
+  "toCity": 0,
+  "startTime": 20,
+  "arriveTime": 22,
+  "timeTaken": 2,
+  "price": 1547,
+  "idNumber": "HU7238"
+}, {
+  "fromCity": 7,
+  "toCity": 0,
+  "startTime": 16,
+  "arriveTime": 18,
+  "timeTaken": 2,
+  "price": 1577,
+  "idNumber": "MU2111"
+}, {
+  "fromCity": 7,
+  "toCity": 0,
+  "startTime": 13,
+  "arriveTime": 15,
+  "timeTaken": 2,
+  "price": 2127,
+  "idNumber": "CA1210"
+}, {
+  "fromCity": 7,
+  "toCity": 0,
+  "startTime": 15,
+  "arriveTime": 17,
+  "timeTaken": 2,
+  "price": 2217,
+  "idNumber": "CA1224"
+}, {
+  "fromCity": 7,
+  "toCity": 0,
+  "startTime": 19,
+  "arriveTime": 21,
+  "timeTaken": 2,
+  "price": 2217,
+  "idNumber": "CA1472"
+}, {
+  "fromCity": 7,
+  "toCity": 6,
+  "startTime": 6,
+  "arriveTime": 7,
+  "timeTaken": 1,
+  "price": 300,
+  "idNumber": "3U8380"
+}, {
+  "fromCity": 7,
+  "toCity": 6,
+  "startTime": 23,
+  "arriveTime": 0,
+  "timeTaken": 1,
+  "price": 345,
+  "idNumber": "TV9906"
+}, {
+  "fromCity": 7,
+  "toCity": 9,
+  "startTime": 8,
+  "arriveTime": 10,
+  "timeTaken": 2,
+  "price": 307,
+  "idNumber": "GS7617"
+}, {
+  "fromCity": 7,
+  "toCity": 9,
+  "startTime": 11,
+  "arriveTime": 13,
+  "timeTaken": 2,
+  "price": 310,
+  "idNumber": "CZ6319"
+}, {
+  "fromCity": 7,
+  "toCity": 9,
+  "startTime": 20,
+  "arriveTime": 22,
+  "timeTaken": 2,
+  "price": 320,
+  "idNumber": "MU2355"
+}, {
+  "fromCity": 7,
+  "toCity": 9,
+  "startTime": 6,
+  "arriveTime": 8,
+  "timeTaken": 2,
+  "price": 400,
+  "idNumber": "G54895"
+}, {
+  "fromCity": 7,
+  "toCity": 9,
+  "startTime": 10,
+  "arriveTime": 12,
+  "timeTaken": 2,
+  "price": 400,
+  "idNumber": "CA1666"
+}, {
+  "fromCity": 7,
+  "toCity": 9,
+  "startTime": 13,
+  "arriveTime": 14,
+  "timeTaken": 1,
+  "price": 405,
+  "idNumber": "FU6628"
+}, {
+  "fromCity": 7,
+  "toCity": 9,
+  "startTime": 14,
+  "arriveTime": 16,
+  "timeTaken": 2,
+  "price": 419,
+  "idNumber": "GS6637"
+}, {
+  "fromCity": 7,
+  "toCity": 9,
+  "startTime": 8,
+  "arriveTime": 11,
+  "timeTaken": 3,
+  "price": 602,
+  "idNumber": "GS6646"
+}, {
+  "fromCity": 8,
+  "toCity": 0,
+  "startTime": 1,
+  "arriveTime": 21,
+  "timeTaken": 20,
+  "price": 296.5,
+  "idNumber": "K40"
+}, {
+  "fromCity": 8,
+  "toCity": 0,
+  "startTime": 7,
+  "arriveTime": 14,
+  "timeTaken": 7,
+  "price": 306.5,
+  "idNumber": "D28"
+}, {
+  "fromCity": 8,
+  "toCity": 0,
+  "startTime": 9,
+  "arriveTime": 17,
+  "timeTaken": 7,
+  "price": 306.5,
+  "idNumber": "D26"
+}, {
+  "fromCity": 8,
+  "toCity": 0,
+  "startTime": 10,
+  "arriveTime": 18,
+  "timeTaken": 7,
+  "price": 306.5,
+  "idNumber": "D102"
+}, {
+  "fromCity": 8,
+  "toCity": 0,
+  "startTime": 10,
+  "arriveTime": 21,
+  "timeTaken": 10,
+  "price": 261.5,
+  "idNumber": "Z158"
+}, {
+  "fromCity": 8,
+  "toCity": 0,
+  "startTime": 11,
+  "arriveTime": 8,
+  "timeTaken": 21,
+  "price": 288.5,
+  "idNumber": "K1304"
+}, {
+  "fromCity": 8,
+  "toCity": 0,
+  "startTime": 12,
+  "arriveTime": 20,
+  "timeTaken": 8,
+  "price": 544.0,
+  "idNumber": "G394"
+}, {
+  "fromCity": 8,
+  "toCity": 0,
+  "startTime": 14,
+  "arriveTime": 22,
+  "timeTaken": 7,
+  "price": 313.5,
+  "idNumber": "D30"
+}, {
+  "fromCity": 8,
+  "toCity": 0,
+  "startTime": 16,
+  "arriveTime": 23,
+  "timeTaken": 7,
+  "price": 541.5,
+  "idNumber": "G382"
+}, {
+  "fromCity": 8,
+  "toCity": 0,
+  "startTime": 16,
+  "arriveTime": 13,
+  "timeTaken": 20,
+  "price": 296.5,
+  "idNumber": "K350"
+}, {
+  "fromCity": 8,
+  "toCity": 0,
+  "startTime": 17,
+  "arriveTime": 9,
+  "timeTaken": 16,
+  "price": 268.5,
+  "idNumber": "K340"
+}, {
+  "fromCity": 8,
+  "toCity": 0,
+  "startTime": 19,
+  "arriveTime": 6,
+  "timeTaken": 10,
+  "price": 241.5,
+  "idNumber": "Z204"
+}, {
+  "fromCity": 8,
+  "toCity": 0,
+  "startTime": 21,
+  "arriveTime": 7,
+  "timeTaken": 10,
+  "price": 409.5,
+  "idNumber": "Z16"
+}, {
+  "fromCity": 8,
+  "toCity": 0,
+  "startTime": 21,
+  "arriveTime": 8,
+  "timeTaken": 10,
+  "price": 261.5,
+  "idNumber": "Z84"
+}, {
+  "fromCity": 8,
+  "toCity": 0,
+  "startTime": 21,
+  "arriveTime": 10,
+  "timeTaken": 13,
+  "price": 261.5,
+  "idNumber": "T298"
+}, {
+  "fromCity": 8,
+  "toCity": 0,
+  "startTime": 22,
+  "arriveTime": 9,
+  "timeTaken": 11,
+  "price": 261.5,
+  "idNumber": "T48"
+}, {
+  "fromCity": 8,
+  "toCity": 0,
+  "startTime": 20,
+  "arriveTime": 0,
+  "timeTaken": 4,
+  "price": 449,
+  "idNumber": "KN5530"
+}, {
+  "fromCity": 8,
+  "toCity": 0,
+  "startTime": 22,
+  "arriveTime": 0,
+  "timeTaken": 2,
+  "price": 615,
+  "idNumber": "CN7150"
+}, {
+  "fromCity": 8,
+  "toCity": 0,
+  "startTime": 15,
+  "arriveTime": 17,
+  "timeTaken": 2,
+  "price": 930,
+  "idNumber": "MU2468"
+}, {
+  "fromCity": 8,
+  "toCity": 0,
+  "startTime": 17,
+  "arriveTime": 19,
+  "timeTaken": 2,
+  "price": 930,
+  "idNumber": "MU2718"
+}, {
+  "fromCity": 8,
+  "toCity": 0,
+  "startTime": 8,
+  "arriveTime": 10,
+  "timeTaken": 2,
+  "price": 970,
+  "idNumber": "CA1640"
+}, {
+  "fromCity": 8,
+  "toCity": 0,
+  "startTime": 7,
+  "arriveTime": 9,
+  "timeTaken": 2,
+  "price": 980,
+  "idNumber": "CZ6201"
+}, {
+  "fromCity": 8,
+  "toCity": 0,
+  "startTime": 10,
+  "arriveTime": 12,
+  "timeTaken": 2,
+  "price": 985,
+  "idNumber": "HU7130"
+}, {
+  "fromCity": 8,
+  "toCity": 0,
+  "startTime": 16,
+  "arriveTime": 18,
+  "timeTaken": 2,
+  "price": 1050,
+  "idNumber": "CZ6203"
+}, {
+  "fromCity": 8,
+  "toCity": 0,
+  "startTime": 19,
+  "arriveTime": 22,
+  "timeTaken": 3,
+  "price": 1140,
+  "idNumber": "CA1612"
+}, {
+  "fromCity": 8,
+  "toCity": 0,
+  "startTime": 21,
+  "arriveTime": 23,
+  "timeTaken": 2,
+  "price": 1140,
+  "idNumber": "CA1622"
+}, {
+  "fromCity": 8,
+  "toCity": 0,
+  "startTime": 19,
+  "arriveTime": 21,
+  "timeTaken": 2,
+  "price": 1190,
+  "idNumber": "CZ6280"
+}, {
+  "fromCity": 8,
+  "toCity": 0,
+  "startTime": 11,
+  "arriveTime": 13,
+  "timeTaken": 2,
+  "price": 1400,
+  "idNumber": "CA1644"
+}, {
+  "fromCity": 8,
+  "toCity": 0,
+  "startTime": 15,
+  "arriveTime": 18,
+  "timeTaken": 3,
+  "price": 1400,
+  "idNumber": "CA1624"
+}, {
+  "fromCity": 8,
+  "toCity": 0,
+  "startTime": 14,
+  "arriveTime": 16,
+  "timeTaken": 2,
+  "price": 1410,
+  "idNumber": "CZ6658"
+}, {
+  "fromCity": 9,
+  "toCity": 0,
+  "startTime": 0,
+  "arriveTime": 14,
+  "timeTaken": 14,
+  "price": 147.0,
+  "idNumber": "1134"
+}, {
+  "fromCity": 9,
+  "toCity": 0,
+  "startTime": 0,
+  "arriveTime": 9,
+  "timeTaken": 9,
+  "price": 158.0,
+  "idNumber": "Z180"
+}, {
+  "fromCity": 9,
+  "toCity": 0,
+  "startTime": 0,
+  "arriveTime": 12,
+  "timeTaken": 11,
+  "price": 158.0,
+  "idNumber": "K1178"
+}, {
+  "fromCity": 9,
+  "toCity": 0,
+  "startTime": 1,
+  "arriveTime": 11,
+  "timeTaken": 10,
+  "price": 158.0,
+  "idNumber": "K886"
+}, {
+  "fromCity": 9,
+  "toCity": 0,
+  "startTime": 8,
+  "arriveTime": 19,
+  "timeTaken": 10,
+  "price": 158.0,
+  "idNumber": "K618"
+}, {
+  "fromCity": 9,
+  "toCity": 0,
+  "startTime": 8,
+  "arriveTime": 18,
+  "timeTaken": 9,
+  "price": 158.0,
+  "idNumber": "Z284"
+}, {
+  "fromCity": 9,
+  "toCity": 0,
+  "startTime": 9,
+  "arriveTime": 19,
+  "timeTaken": 9,
+  "price": 158.0,
+  "idNumber": "K42"
+}, {
+  "fromCity": 9,
+  "toCity": 0,
+  "startTime": 12,
+  "arriveTime": 21,
+  "timeTaken": 9,
+  "price": 158.0,
+  "idNumber": "Z318"
+}, {
+  "fromCity": 9,
+  "toCity": 0,
+  "startTime": 19,
+  "arriveTime": 4,
+  "timeTaken": 9,
+  "price": 158.0,
+  "idNumber": "K56"
+}, {
+  "fromCity": 9,
+  "toCity": 0,
+  "startTime": 21,
+  "arriveTime": 7,
+  "timeTaken": 9,
+  "price": 158.0,
+  "idNumber": "K90"
+}, {
+  "fromCity": 9,
+  "toCity": 0,
+  "startTime": 22,
+  "arriveTime": 8,
+  "timeTaken": 10,
+  "price": 158.0,
+  "idNumber": "K264"
+}, {
+  "fromCity": 9,
+  "toCity": 0,
+  "startTime": 23,
+  "arriveTime": 9,
+  "timeTaken": 10,
+  "price": 158.0,
+  "idNumber": "K396"
+}, {
+  "fromCity": 9,
+  "toCity": 0,
+  "startTime": 23,
+  "arriveTime": 13,
+  "timeTaken": 13,
+  "price": 158.0,
+  "idNumber": "K712"
+}, {
+  "fromCity": 9,
+  "toCity": 10,
+  "startTime": 23,
+  "arriveTime": 6,
+  "timeTaken": 30,
+  "price": 483.5,
+  "idNumber": "Z179"
+}, {
+  "fromCity": 9,
+  "toCity": 7,
+  "startTime": 16,
+  "arriveTime": 6,
+  "timeTaken": 13,
+  "price": 238.5,
+  "idNumber": "K655"
+}, {
+  "fromCity": 9,
+  "toCity": 7,
+  "startTime": 18,
+  "arriveTime": 7,
+  "timeTaken": 13,
+  "price": 238.5,
+  "idNumber": "K691"
+}, {
+  "fromCity": 9,
+  "toCity": 7,
+  "startTime": 19,
+  "arriveTime": 9,
+  "timeTaken": 13,
+  "price": 238.5,
+  "idNumber": "K1315"
+}, {
+  "fromCity": 9,
+  "toCity": 7,
+  "startTime": 21,
+  "arriveTime": 11,
+  "timeTaken": 13,
+  "price": 238.5,
+  "idNumber": "K1673"
+}, {
+  "fromCity": 9,
+  "toCity": 0,
+  "startTime": 9,
+  "arriveTime": 10,
+  "timeTaken": 1,
+  "price": 583,
+  "idNumber": "KN2260"
+}, {
+  "fromCity": 9,
+  "toCity": 0,
+  "startTime": 23,
+  "arriveTime": 1,
+  "timeTaken": 2,
+  "price": 653,
+  "idNumber": "HU7176"
+}, {
+  "fromCity": 9,
+  "toCity": 0,
+  "startTime": 23,
+  "arriveTime": 0,
+  "timeTaken": 1,
+  "price": 730,
+  "idNumber": "CA1116"
+}, {
+  "fromCity": 9,
+  "toCity": 0,
+  "startTime": 15,
+  "arriveTime": 16,
+  "timeTaken": 1,
+  "price": 859,
+  "idNumber": "KN2262"
+}, {
+  "fromCity": 9,
+  "toCity": 0,
+  "startTime": 7,
+  "arriveTime": 8,
+  "timeTaken": 1,
+  "price": 880,
+  "idNumber": "CA1102"
+}, {
+  "fromCity": 9,
+  "toCity": 0,
+  "startTime": 8,
+  "arriveTime": 9,
+  "timeTaken": 1,
+  "price": 880,
+  "idNumber": "CA1112"
+}, {
+  "fromCity": 9,
+  "toCity": 0,
+  "startTime": 11,
+  "arriveTime": 12,
+  "timeTaken": 1,
+  "price": 880,
+  "idNumber": "CA1118"
+}, {
+  "fromCity": 9,
+  "toCity": 0,
+  "startTime": 19,
+  "arriveTime": 20,
+  "timeTaken": 1,
+  "price": 880,
+  "idNumber": "CA1106"
+}, {
+  "fromCity": 9,
+  "toCity": 10,
+  "startTime": 11,
+  "arriveTime": 14,
+  "timeTaken": 3,
+  "price": 1080,
+  "idNumber": "CZ6181"
+}, {
+  "fromCity": 9,
+  "toCity": 7,
+  "startTime": 23,
+  "arriveTime": 1,
+  "timeTaken": 2,
+  "price": 216,
+  "idNumber": "GS6638"
+}, {
+  "fromCity": 9,
+  "toCity": 7,
+  "startTime": 22,
+  "arriveTime": 0,
+  "timeTaken": 2,
+  "price": 278,
+  "idNumber": "GJ8092"
+}, {
+  "fromCity": 9,
+  "toCity": 7,
+  "startTime": 20,
+  "arriveTime": 22,
+  "timeTaken": 2,
+  "price": 307,
+  "idNumber": "GS7646"
+}, {
+  "fromCity": 9,
+  "toCity": 7,
+  "startTime": 7,
+  "arriveTime": 9,
+  "timeTaken": 2,
+  "price": 320,
+  "idNumber": "CA1665"
+}, {
+  "fromCity": 9,
+  "toCity": 7,
+  "startTime": 10,
+  "arriveTime": 11,
+  "timeTaken": 1,
+  "price": 405,
+  "idNumber": "FU6627"
+}, {
+  "fromCity": 9,
+  "toCity": 7,
+  "startTime": 18,
+  "arriveTime": 20,
+  "timeTaken": 2,
+  "price": 419,
+  "idNumber": "GS7618"
+}, {
+  "fromCity": 9,
+  "toCity": 7,
+  "startTime": 14,
+  "arriveTime": 15,
+  "timeTaken": 1,
+  "price": 430,
+  "idNumber": "CZ6320"
+}, {
+  "fromCity": 9,
+  "toCity": 7,
+  "startTime": 7,
+  "arriveTime": 11,
+  "timeTaken": 4,
+  "price": 602,
+  "idNumber": "GS6645"
+}, {
+  "fromCity": 10,
+  "toCity": 6,
+  "startTime": 22,
+  "arriveTime": 9,
+  "timeTaken": 35,
+  "price": 491.5,
+  "idNumber": "K2060"
+}, {
+  "fromCity": 10,
+  "toCity": 6,
+  "startTime": 22,
+  "arriveTime": 1,
+  "timeTaken": 3,
+  "price": 790,
+  "idNumber": "3U8842"
+}, {
+  "fromCity": 10,
+  "toCity": 6,
+  "startTime": 20,
+  "arriveTime": 0,
+  "timeTaken": 4,
+  "price": 830,
+  "idNumber": "CA4154"
+}, {
+  "fromCity": 10,
+  "toCity": 6,
+  "startTime": 7,
+  "arriveTime": 12,
+  "timeTaken": 5,
+  "price": 890,
+  "idNumber": "3U8061"
+}, {
+  "fromCity": 10,
+  "toCity": 6,
+  "startTime": 18,
+  "arriveTime": 21,
+  "timeTaken": 3,
+  "price": 890,
+  "idNumber": "3U8526"
+}, {
+  "fromCity": 10,
+  "toCity": 6,
+  "startTime": 8,
+  "arriveTime": 11,
+  "timeTaken": 3,
+  "price": 960,
+  "idNumber": "CZ6941"
+}, {
+  "fromCity": 10,
+  "toCity": 6,
+  "startTime": 10,
+  "arriveTime": 13,
+  "timeTaken": 3,
+  "price": 970,
+  "idNumber": "CA4192"
+}, {
+  "fromCity": 10,
+  "toCity": 6,
+  "startTime": 11,
+  "arriveTime": 15,
+  "timeTaken": 4,
+  "price": 970,
+  "idNumber": "CA4152"
+}, {
+  "fromCity": 10,
+  "toCity": 6,
+  "startTime": 15,
+  "arriveTime": 18,
+  "timeTaken": 3,
+  "price": 980,
+  "idNumber": "CZ6881"
+}]
