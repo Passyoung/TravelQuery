@@ -5,12 +5,13 @@ public class BestStrategy {
     private double[] distTo;
     private Schedule[] pathTo;
     private IndexMinPQ<Double> pq;
+    private int trans;
 
     //S为起点
-    public BestStrategy(TransMap transMap, int s) {
+    public BestStrategy(TransMap transMap, int s,int trans) {
         distTo = new double[transMap.getNumOfCity()];
         pathTo = new Schedule[transMap.getNumOfCity()];
-
+        this.trans = trans;
         for (int v = 0;v < transMap.getNumOfCity();v++) {
             distTo[v] = Double.POSITIVE_INFINITY;
         }
@@ -21,7 +22,17 @@ public class BestStrategy {
         while (!pq.isEmpty()) {
             int v = pq.delMin();
             for (Schedule p : transMap.getAdj(v)){
-                relax(p);
+                if (trans == 0){
+                    if (p.getIdNumber().length() <= 4)
+                        relax(p);
+                }
+                if (trans == 1){
+                    if (p.getIdNumber().length() > 4){
+                        relax(p);
+                    }
+                }
+                if (trans == 2)
+                    relax(p);
             }
         }
         assert true;
